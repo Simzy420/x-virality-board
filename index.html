@@ -1,0 +1,25 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>@Big_Brain_Ape · X Virality Board</title><style>
+body{margin:0;background:#0b0d12;color:#e6e8ee;font:15px/1.5 system-ui,sans-serif}main{max-width:960px;margin:auto;padding:24px}
+h1{margin:0;font-size:28px}h2{font-size:18px;color:#8ab4ff;margin-top:32px}a{color:#7cc4ff}.muted{color:#8a90a0}
+.card{background:#141822;border:1px solid #232a38;border-radius:12px;padding:16px;margin:12px 0}
+pre{white-space:pre-wrap;font:inherit;margin:0}table{width:100%;border-collapse:collapse}td,th{padding:8px;border-bottom:1px solid #232a38;text-align:left}
+.pill{display:inline-block;background:#1d2433;border-radius:99px;padding:4px 10px;margin:3px}video{max-width:100%;border-radius:10px}.v{color:#5be49b;font-weight:600}
+</style></head><body><main>
+<h1>@Big_Brain_Ape · X Virality Board</h1><div class="muted" id="sub"></div>
+<h2>Today's digest — what's hitting</h2><div class="card"><table id="hits"></table><p class="muted" id="notes"></p></div>
+<h2>Today's drafted post</h2><div class="card" id="today"></div>
+<h2>Post history</h2><div class="card"><table id="hist"></table></div>
+<h2>Watchlist</h2><div class="card" id="wl"></div>
+<p class="muted">Updated daily. Data: data/digest.json, data/posts.json</p></main>
+<script>
+const f=n=>n>=1000?(n/1000).toFixed(n>=100000?0:1).replace('.0','')+'K':n,e=s=>String(s).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+Promise.all(['data/digest.json','data/posts.json'].map(u=>fetch(u+'?'+Date.now()).then(r=>r.json()))).then(([d,p])=>{
+sub.textContent=`Digest ${d.date} · Recommended post time: ${d.recommended_time}`;
+hits.innerHTML='<tr><th>Account</th><th>Views</th><th>Post</th></tr>'+d.hits.map(h=>`<tr><td>@${e(h.account)}</td><td class="v">${f(h.views)}</td><td><a href="${e(h.url)}" target="_blank">open</a></td></tr>`).join('');
+notes.textContent=d.notes||'';
+const t=p[p.length-1];
+today.innerHTML=`<p><b><a href="https://github.com/${e(t.repo)}">${e(t.repo)}</a></b> · ⭐ ${t.stars.toLocaleString()} · ${e(t.status)} · post at ${e(t.recommended_time||d.recommended_time)}</p>${t.video?`<video controls playsinline preload="metadata" poster="${e(t.poster||'')}" src="${e(t.video)}"></video>`:''}<pre>${e(t.text)}</pre>`;
+hist.innerHTML='<tr><th>Date</th><th>Repo</th><th>Stars</th><th>Status</th><th>Link</th></tr>'+p.slice().reverse().map(x=>`<tr><td>${x.date}</td><td><a href="https://github.com/${e(x.repo)}">${e(x.repo)}</a></td><td>${f(x.stars)}</td><td>${e(x.status)}</td><td>${x.post_url?`<a href="${e(x.post_url)}">post</a>`:(x.video?`<a href="${e(x.video)}">video</a>`:'')}</td></tr>`).join('');
+wl.innerHTML=d.watchlist.map(a=>`<a class="pill" href="https://x.com/${a}" target="_blank">@${a}</a>`).join('');});
+</script></body></html>
