@@ -1,5 +1,5 @@
 {
- "date": "2026-11-04",
+ "date": "2026-11-05",
  "handle": "Big_Brain_Ape",
  "watchlist": [
   "thegreatest_sv",
@@ -10,37 +10,658 @@
   "0xcodez"
  ],
  "recommended_time": "7:30 AM Boise (MT)",
- "notes": "Strongest hooks today: FOMO one-liners and lists of GitHub repos. Top posts went up 7-9 AM Boise.",
+ "notes": "Watchlist meta Nov 5: agent teams / Claude Code / second-brain hooks dominate (cyrilxbt Opus crews, bober second-brain repos, thegreatest_sv job-survival repo lists, rohonchain Grok trading agents). Avoided ComfyUI/Fooocus (pushed by cyrilxbt Nov 4) and browser-use (yesterday). Picked ollama/ollama \u2014 185989 stars, local ChatGPT-class models, not in either posted log, no same-day watchlist collision. Strong viral fit with local/private/free framing.",
  "hits": [
   {
-   "account": "rohonchain",
-   "views": 329000,
-   "url": "https://x.com/RohOnChain/status/2117625737792585969"
+   "account": "0xcodez",
+   "views": 643777,
+   "url": "https://x.com/0xCodez/status/2115189030442688686",
+   "text": "this is wild...\n\na guy reverse-engineered his Meta Ray-Bans 3 with Opus 5.5 and turned it into a 3,000+ Elo chess engine\n\nit\u2019s AI chess cheat glasses built on Opus 5.5 + Jev, and the whole workflow is open source\n\nhere\u2019s the full breakdown:\n\nstep 1 \u2192 one command sets it up on https://t.co/IW9oK5sT6Y https://t.co/3cF0vXQHBr",
+   "repos": []
   },
   {
    "account": "rohonchain",
-   "views": 256000,
-   "url": "https://x.com/RohOnChain/status/2117642795620139216"
+   "views": 636608,
+   "url": "https://x.com/RohOnChain/status/2117625737792585969",
+   "text": "Grok Bot builds MOST powerful trading agents right now\n\nIt gives you an army of agents that can do work for you 24/7\n\nIf you set it up correctly, you gain super powers\n\nIn this article, I cover how to build a team of 24/7 AI trading agents from scratch https://t.co/UfVNlvfAni",
+   "repos": []
+  },
+  {
+   "account": "rohonchain",
+   "views": 436391,
+   "url": "https://x.com/RohOnChain/status/2112218991414710384",
+   "text": "this is the most DANGEROUS thing on internet today\n\nsomeone built an AI that reads candlestick charts the way GPT reads English &amp; released it for 100% FREE\n\ni just connected it to my TradingView setup with opus 5.5 &amp; now my AI trading system reads every candle &amp; predicts the next https://t.co/jid9BoejDc https://t.co/QiFl6REZ1F",
+   "repos": []
+  },
+  {
+   "account": "rohonchain",
+   "views": 422726,
+   "url": "https://x.com/RohOnChain/status/2117642795620139216",
+   "text": "I am begging you to paste this article into Grok Bot before bed, it will definitely change your life...\n\nOvernight it researches entire market &amp; builds you a trading bot that hunts profitable strategies 24/7.\n\nSteal this before everyone starts using it: https://t.co/v38VlVeeL2",
+   "repos": []
+  },
+  {
+   "account": "rohonchain",
+   "views": 343663,
+   "url": "https://x.com/RohOnChain/status/2113691423300317478",
+   "text": "I am begging you to paste this into Grok Bot before bed, it will definitely change your life...\n\nOvernight it researches whole market &amp; gives you a trading bot to find profitable strategies 24/7.\n\nSteal this before everyone starts using it: https://t.co/0QFAAWBGhB https://t.co/QiFl6REZ1F",
+   "repos": []
+  },
+  {
+   "account": "0xcodez",
+   "views": 283086,
+   "url": "https://x.com/0xCodez/status/2114762819371680110",
+   "text": "I turned my DJI Mavic into a home security drone with REA &amp; Opus 5.5.\n\nthis f*cking is insane..\n\nI reverse-engineered my DJI drone with Opus 5.5\n\nno cloud. no GPS on the target. it all runs on the phone. iPhone or Android.\n\nhere's the build step by step:\n\nstep 1 \u2192 plug a spare https://t.co/Y9SMGJUOOs https://t.co/3cF0vXRfqZ",
+   "repos": []
   },
   {
    "account": "thegreatest_sv",
-   "views": 39000,
-   "url": "https://x.com/thegreatest_sv/status/2117687388214272339"
+   "views": 172821,
+   "url": "https://x.com/thegreatest_sv/status/2115876572464812071",
+   "text": "holy f*ck, web designers have no idea what's coming. 7 design repos you need to know to survive AI.",
+   "repos": []
   },
   {
-   "account": "cyrilxbt",
-   "views": 13200,
-   "url": "https://x.com/cyrilxbt/status/2117497039676432458"
+   "account": "0xcodez",
+   "views": 140378,
+   "url": "https://x.com/0xCodez/status/2117990667100074023",
+   "text": "Closed-source f*cked again...\n\nteam that open-sourced Adobe &amp; Microsoft\u2019s stack just released their Reverse Engineering engine after Claude banned REA.\n\nIt's called Craft Anything, and it lets your AI coding agent:  \n\n~ reverse-engineer websites, desktop apps, mobile apps and https://t.co/NkT6DULDxg https://t.co/3cF0vXQHBr",
+   "repos": []
   },
   {
    "account": "bober_smart",
-   "views": 12300,
-   "url": "https://x.com/Bober_smart/status/2117619229465641097"
+   "views": 129166,
+   "url": "https://x.com/Bober_smart/status/2115163079327506849",
+   "text": "BREAKING: An organization selling nighttime sunlight that can be bought through a smartphone. Reflect Orbital.",
+   "repos": []
+  },
+  {
+   "account": "rohonchain",
+   "views": 118558,
+   "url": "https://x.com/RohOnChain/status/2116977333353787727",
+   "text": "I am begging you to paste this into Grok Bot right now, it will definitely change your life...\n\nIt researches the whole market, finds the profitable strategy &amp; instantly it gives you a 24/7 trading bot.\n\nSteal this before everyone starts using it: https://t.co/9qEb0bvNwL https://t.co/QiFl6REZ1F",
+   "repos": []
   },
   {
    "account": "thegreatest_sv",
-   "views": 9000,
-   "url": "https://x.com/thegreatest_sv/status/2117591176048005131"
+   "views": 112447,
+   "url": "https://x.com/thegreatest_sv/status/2116587002493542781",
+   "text": "holy f*ck, web designers have NO IDEA what\u2019s coming after them in 2027. 7 GitHub repos: 1. Graphify 137k stars.",
+   "repos": []
+  },
+  {
+   "account": "rohonchain",
+   "views": 102380,
+   "url": "https://x.com/RohOnChain/status/2116249704728264885",
+   "text": "Paste this into Grok Bot tonight, it will change your life...\n\nIt researches the whole market through the night, tests every strategy it finds and by morning you have your own 24/7 trading bot\n\nSave it before your timeline catches on: https://t.co/bRPC2Yk4up https://t.co/QiFl6REZ1F",
+   "repos": []
+  },
+  {
+   "account": "rohonchain",
+   "views": 98377,
+   "url": "https://x.com/RohOnChain/status/2116589860861739023",
+   "text": "this is MOST dangerous thing on the internet today\n\na single claude skill turns Opus 5.5 into a 24/7 trader with 11 TRADING BOTS, each one doing its own job\n\ni connected TradingView with this skill &amp; built a COMPLETE AI trading setup from scratch\n\nmy setup finds the trade https://t.co/kkIW0LcBKP https://t.co/QiFl6REZ1F",
+   "repos": []
+  },
+  {
+   "account": "rohonchain",
+   "views": 93667,
+   "url": "https://x.com/RohOnChain/status/2115871785250111615",
+   "text": "this is the most DANGEROUS thing on internet today\n\ni built an open library of PROFITABLE trading strategies, every single one FULLY BACKTESTED on real market data over the years\n\nmade it 100% FREE for everyone along with its COMPLETE codebase\n\nhere\u2019s what you get with every https://t.co/0Xatlk2EOT https://t.co/QiFl6REZ1F",
+   "repos": []
+  },
+  {
+   "account": "thegreatest_sv",
+   "views": 91943,
+   "url": "https://x.com/thegreatest_sv/status/2117687388214272339",
+   "text": "YOU WON'T HAVE A JOB IN 2027 IF YOU DON'T LEARN THIS. 7 GitHub repos that will save you from being replaced by AI. 1. career-ops (80k stars)",
+   "repos": []
+  },
+  {
+   "account": "rohonchain",
+   "views": 90148,
+   "url": "https://x.com/RohOnChain/status/2114039573479338309",
+   "text": "Grok Bot + TradingView is one of the MOST powerful AI trading setups I\u2019ve ever used\n\nYou can literally turn Grok Bot into your personal trading assistant in minutes\n\nIt'll run premium indicators on live charts, conduct deep technical analysis &amp; more\n\nfeed this before it\u2019s gone: https://t.co/1eLkmnWJ8G https://t.co/QiFl6REZ1F",
+   "repos": []
+  },
+  {
+   "account": "0xcodez",
+   "views": 89995,
+   "url": "https://x.com/0xCodez/status/2116906971307667825",
+   "text": "I was tired of switching between my Windows PC, Mac, and phone, so...\n\ni reverse-engineered TeamViewer with Opus 5.5 and turned my devices into one desk.\n\n\u2192 https://t.co/hBWA9T8JXC \n\nfree &amp; open-source:  \n\u2192 shared mouse and keyboard across Windows &amp; Mac  \u2192 copy on one, paste https://t.co/ujqkXp3Thy https://t.co/ylgMm5mam0",
+   "repos": []
+  },
+  {
+   "account": "cyrilxbt",
+   "views": 85862,
+   "url": "https://x.com/cyrilXBT/status/2117432419003355631",
+   "text": "How to Actually Build Your First Team of AI Agents Using Claude Opus 5.5 (Full Course)",
+   "repos": []
+  },
+  {
+   "account": "rohonchain",
+   "views": 73721,
+   "url": "https://x.com/RohOnChain/status/2115160971018895590",
+   "text": "I am begging you to paste this into Grok Bot before bed, it will definitely change your life...\n\nOvernight it scans the entire market &amp; builds a team of trading bots to hunt profitable strategies 24/7.\n\nSteal this before everyone starts using it: https://t.co/fZ025udmUT https://t.co/QiFl6REZ1F",
+   "repos": []
+  },
+  {
+   "account": "rohonchain",
+   "views": 69965,
+   "url": "https://x.com/RohOnChain/status/2117345365255172184",
+   "text": "Send this to grok bot right now, it will definitely change your life...\n\nOvernight it researches the whole market, finds profitable strategies 24/7 &amp; hand the strategy to the trading bot.\n\nSteal it before everyone starts using it: https://t.co/ZqqXaqUkPZ https://t.co/QiFl6REZ1F",
+   "repos": []
+  },
+  {
+   "account": "rohonchain",
+   "views": 67333,
+   "url": "https://x.com/RohOnChain/status/2113306887131447387",
+   "text": "this is f*cking DANGEROUS thing on internet today\n\none developer built a real-time global intelligence dashboard that tracks every world event 24/7 giving you the FASTEST market data to place trades\n\nand released it for 100% FREE\n\ni connected it to my Grok Bot &amp; now my AI trading https://t.co/MIjF3RpWQc https://t.co/QiFl6REZ1F",
+   "repos": []
+  },
+  {
+   "account": "rohonchain",
+   "views": 58353,
+   "url": "https://x.com/RohOnChain/status/2115142289198813387",
+   "text": "i found the EXACT strategy to make serious MONEY from Anthropic's IPO\n\nAnthropic just dropped its 421 page S-1 filing\n\ni turned the ENTIRE S-1 filing into tradeable data in minutes using a FREE 1.3B model &amp; built a complete IPO trading playbook from it\n\nhere's exactly how i did https://t.co/Pm2sRJmhj3 https://t.co/09yCF8hC9r",
+   "repos": []
+  },
+  {
+   "account": "rohonchain",
+   "views": 57683,
+   "url": "https://x.com/RohOnChain/status/2114760961374740890",
+   "text": "This is f*cking dangerous\n\nYou can actually use Grok Bot to spot REAL insider trading with a single prompt...\n\nPaste this into Grok Bot. It will set up all the necessary connections.\n\nIt will probably change your life: https://t.co/QaR0buCFeN https://t.co/QiFl6REZ1F",
+   "repos": []
+  },
+  {
+   "account": "thegreatest_sv",
+   "views": 56966,
+   "url": "https://x.com/thegreatest_sv/status/2116241528737693741",
+   "text": "holy f*ck, I just sold this single AI-generated 3D neuron for $2,000 to a private biotech lab.",
+   "repos": []
+  },
+  {
+   "account": "bober_smart",
+   "views": 54812,
+   "url": "https://x.com/Bober_smart/status/2115800129269588010",
+   "text": "HOLY SH*T. I just crossed $24,000 in profit with Grok Bot. THANKS ELON. Polymarket trading setup.",
+   "repos": []
+  },
+  {
+   "account": "rohonchain",
+   "views": 54782,
+   "url": "https://x.com/RohOnChain/status/2115480282577117588",
+   "text": "i reverse engineered the MOST profitable trading bots on Polymarket\n\n&amp; found out their EXACT million-dollar trading strategy for BTC 5-minute markets\n\nyou can build same trading strategy with Grok Bot using just ONE single prompt (INCREDIBLE results)\n\nfirst understand their https://t.co/iNvjGNzkNE https://t.co/QiFl6REZ1F",
+   "repos": []
+  },
+  {
+   "account": "rohonchain",
+   "views": 54449,
+   "url": "https://x.com/RohOnChain/status/2114439117862056334",
+   "text": "The crypto bull run is here. \n\nThe traders who leverage AI are about to make a sh*t ton of cash...\n\nPaste this prompt into Grok Bot to build your first AI trading bot.\n\nThank me later: https://t.co/HvPOfvI3yP https://t.co/QiFl6REZ1F",
+   "repos": []
+  },
+  {
+   "account": "0xcodez",
+   "views": 53747,
+   "url": "https://x.com/0xCodez/status/2117329233110507981",
+   "text": "I just canceled my $199 / year WHOOP subscription, and\u2026\n\nreverse-engineered their entire app for my Apple Watch with Opus 5.5 in 2 hours, then i made it open-source:\n\n\u2192 https://t.co/7jGv3BBraP\n\nrecovery. strain. sleep. one beating orb. free and open-source.\n\nwhat it does:\n\n\u2192 https://t.co/YULVWL4LHg https://t.co/3cF0vXRfqZ",
+   "repos": [
+    "0xCodez/pulsr"
+   ]
+  },
+  {
+   "account": "bober_smart",
+   "views": 50490,
+   "url": "https://x.com/Bober_smart/status/2116895037862633476",
+   "text": "It is becoming f*cking dangerous: Claude Opus 5.5 turned a single image into a robot gorilla that can be taken apart down to the last screw.",
+   "repos": []
+  },
+  {
+   "account": "bober_smart",
+   "views": 39313,
+   "url": "https://x.com/Bober_smart/status/2116978958121964030",
+   "text": "I still don't get why people bother creating a second brain for Claude from scratch when these 10 repositories already provide complete systems.",
+   "repos": []
+  },
+  {
+   "account": "0xcodez",
+   "views": 37434,
+   "url": "https://x.com/0xCodez/status/2115878519901229474",
+   "text": "closed source is dead...\n\ni just reverse-engineered CCleaner / CleanMyMac with Opus 5.5 for Mac &amp; Windows PC\n\n$40/year cleaners \u2192 replaced in one afternoon.\n\n\u2192 https://t.co/pi8p9qhdKm\n\nfree. open code. no account. no upsells.\n\nhow it came together:\n\n\u2022 step 1 \u2192 Claude Code on https://t.co/ZvBNYhiQeB https://t.co/3cF0vXQHBr",
+   "repos": []
+  },
+  {
+   "account": "rohonchain",
+   "views": 36827,
+   "url": "https://x.com/RohOnChain/status/2118029000379601107",
+   "text": "this is the most DANGEROUS thing on internet today\n\nsomeone built a 100% FREE alternative to TradingView &amp; it does almost everything traders pay $2,399/year for, for FREE\n\nyou get PREMIUM indicators without paying for a PRO account\n\nyou also get live charts, market heatmaps, https://t.co/Kd3k8JEcvn https://t.co/v38VlVeeL2",
+   "repos": []
+  },
+  {
+   "account": "rohonchain",
+   "views": 34921,
+   "url": "https://x.com/RohOnChain/status/2112608353969160524",
+   "text": "this might be the ONLY thing you need to let Claude trade for you 24/7.\n\ncopy &amp; paste this prompt into Claude Opus 5.5 and watch the insane trading agent it builds.\n\nsave this one. https://t.co/9brwhL02MM https://t.co/Tiwxf7qPZ1",
+   "repos": []
+  },
+  {
+   "account": "thegreatest_sv",
+   "views": 26609,
+   "url": "https://x.com/thegreatest_sv/status/2117324109478507007",
+   "text": "holy f*ck, 2027 is going to be a nightmare for web designers who still ignore AI. 7 GitHub repos incl Graphify.",
+   "repos": []
+  },
+  {
+   "account": "0xgenai",
+   "views": 25800,
+   "url": "https://x.com/0xGenAi/status/2113030653620961646",
+   "text": "I hate how much I want to try this. Elon: stop building startups. buy boring internet real estate and let bots run it.",
+   "repos": []
+  },
+  {
+   "account": "bober_smart",
+   "views": 22179,
+   "url": "https://x.com/Bober_smart/status/2116613802791965085",
+   "text": "A millionaire who built his empire using AI was asked how to go from $0 to $1,000,000. 1. Claude Code 2. Find Leads...",
+   "repos": []
+  },
+  {
+   "account": "bober_smart",
+   "views": 20999,
+   "url": "https://x.com/Bober_smart/status/2117252068775789027",
+   "text": "It is becoming f*cking dangerous. Anthropic just dropped one of the best tricks for Claude Code: run Sonnet, Haiku, and Opus simultaneously.",
+   "repos": []
+  },
+  {
+   "account": "bober_smart",
+   "views": 20656,
+   "url": "https://x.com/Bober_smart/status/2116526023256723618",
+   "text": "Genuinely don't understand why everyone isn't using this yet. Karpathy: stop relying on AI for coding and use it to construct a second brain.",
+   "repos": []
+  },
+  {
+   "account": "thegreatest_sv",
+   "views": 19644,
+   "url": "https://x.com/thegreatest_sv/status/2115418146156736697",
+   "text": "I truly don't f*cking understand why designers aren't scared. Graphify just crossed 137k stars and got into Y Combinator.",
+   "repos": []
+  },
+  {
+   "account": "cyrilxbt",
+   "views": 19275,
+   "url": "https://x.com/cyrilXBT/status/2117885834682945894",
+   "text": "Step 1: Open Claude Code. Step 2: Create 3 markdown files. Step 3: Type ONE command. You now have an AI team.",
+   "repos": []
+  },
+  {
+   "account": "rohonchain",
+   "views": 18147,
+   "url": "https://x.com/RohOnChain/status/2116226213287186930",
+   "text": "i still don\u2019t understand why everyone is NOT using this 100% FREE AI trading desk\n\nit does what a $750K/year quant firm research team does, for FREE\n\nyou describe ANY trading idea in plain English &amp; @quantpilotapp backtests it on TradingView charts with real market data\n\n&amp; turns https://t.co/58zPx7nMFF",
+   "repos": []
+  },
+  {
+   "account": "0xcodez",
+   "views": 16599,
+   "url": "https://x.com/0xCodez/status/2115189034175640062",
+   "text": "https://t.co/ogphkMLLHa",
+   "repos": []
+  },
+  {
+   "account": "bober_smart",
+   "views": 16131,
+   "url": "https://x.com/Bober_smart/status/2117619229465641097",
+   "text": "It's pretty wild that people are still manually stitching together their Claude second brain setups. 4 GitHub repos that automate the whole build.",
+   "repos": []
+  },
+  {
+   "account": "bober_smart",
+   "views": 15601,
+   "url": "https://x.com/Bober_smart/status/2117340807132794925",
+   "text": "I genuinely don't understand why everyone isn't using this yet. With this concept, my business reached $13,000 per month. Karpathy second brain.",
+   "repos": []
+  },
+  {
+   "account": "bober_smart",
+   "views": 15099,
+   "url": "https://x.com/Bober_smart/status/2116170627631517814",
+   "text": "I am genuinely baffled why everyone is sleeping on this feature: Claude Code can review your CLAUDE.md and weed out outdated rules.",
+   "repos": []
+  },
+  {
+   "account": "bober_smart",
+   "views": 13875,
+   "url": "https://x.com/Bober_smart/status/2114812182164652155",
+   "text": "It is becoming f*cking dangerous: thanks to this exact setup, I automated my work and generated $16,400 two months back.",
+   "repos": []
+  },
+  {
+   "account": "cyrilxbt",
+   "views": 13563,
+   "url": "https://x.com/cyrilXBT/status/2117497039676432458",
+   "text": "Close the chat window. You've been using AI like a single intern. The people getting real leverage run TEAMS.",
+   "repos": []
+  },
+  {
+   "account": "0xgenai",
+   "views": 13007,
+   "url": "https://x.com/0xGenAi/status/2111940649016815833",
+   "text": "HOLY F*CK. Karpathy's LLM wiki now runs on Grok Bot: 3 bots in one group chat turn every link into a knowledge base.",
+   "repos": []
+  },
+  {
+   "account": "rohonchain",
+   "views": 12929,
+   "url": "https://x.com/RohOnChain/status/2116939380434858006",
+   "text": "Quant finance is hard to visualize through mathematical equations alone, so i turned MIT\u2019s Quant Bible into an interactive website (100% FREE)\n\nTRY IT \u2192 https://t.co/Eszb82sWS8 \n\nIt covers EVERYTHING from probability, statistics, market making all the way to CRACKING real https://t.co/V7mrbmVJv0 https://t.co/Tiwxf7qPZ1",
+   "repos": []
+  },
+  {
+   "account": "bober_smart",
+   "views": 12565,
+   "url": "https://x.com/Bober_smart/status/2115939753656799541",
+   "text": "What happened with Binance. At 15:59 UTC, the attacker deployed a delegating contract via a relayer.",
+   "repos": []
+  },
+  {
+   "account": "bober_smart",
+   "views": 12056,
+   "url": "https://x.com/Bober_smart/status/2114784297865662742",
+   "text": "I Replaced 8 Market Tabs with One Minara AI Brief. Here's How",
+   "repos": []
+  },
+  {
+   "account": "0xcodez",
+   "views": 12048,
+   "url": "https://x.com/0xCodez/status/2115474383024378336",
+   "text": "a student from California just reverse-engineered his Meta Ray-Bans 3 with Opus 5.5 and turned them into a 3,000+ Elo poker engine\n\nit's AI poker glasses built on Opus 5.5 + a custom card detector, and the whole workflow is open source\n\nhere's the full breakdown:\n\n\u2022 step 1 \u2192 https://t.co/QDDwtTUz0u https://t.co/3cF0vXRfqZ",
+   "repos": []
+  },
+  {
+   "account": "0xcodez",
+   "views": 12006,
+   "url": "https://x.com/0xCodez/status/2115924738514010623",
+   "text": "Stop paying $40 every month for a cache cleaner.\n\na guy reverse-engineered CCleaner / CleanMyMac with Opus 5.5 for Mac &amp; Windows.\n\n\u2192 https://t.co/pi8p9qhdKm\n\n\u2022 finds junk in one tap\n\u2022 shows where your disk space went\n\u2022 turns off apps that slow your startup\n\u2022 uninstalls apps https://t.co/QNQL3CZRhG https://t.co/cX9G66dsHI",
+   "repos": []
+  },
+  {
+   "account": "0xcodez",
+   "views": 11625,
+   "url": "https://x.com/0xCodez/status/2117659261043941647",
+   "text": "Introducing Grok Ship Office: the first live 3D office for shipping products with the GrokBot agent team:\n\n1 prompt + 2 min + &lt;1% usage = your whole AI product studio in one building:\n\nno chaos - each team gets its own floor: Research, Content, Motion, Web, Ops. GrokBot runs https://t.co/6hAJKVa1Rp https://t.co/cxAFyljOyL",
+   "repos": []
+  },
+  {
+   "account": "rohonchain",
+   "views": 11443,
+   "url": "https://x.com/RohOnChain/status/2112902268890796315",
+   "text": "As someone who builds institutional level quant systems, this FREE market making engine is the closest thing to a quant desk I have ever seen publicly shared.\n\nsave it &amp; try this, i won\u2019t say anything more: https://t.co/YRP57jsOZH https://t.co/Tiwxf7qPZ1",
+   "repos": []
+  },
+  {
+   "account": "bober_smart",
+   "views": 11283,
+   "url": "https://x.com/Bober_smart/status/2116252364273533244",
+   "text": "HOLY SH*T. Andrej Karpathy's external brain framework is now working via Grok Bot.",
+   "repos": []
+  },
+  {
+   "account": "0xgenai",
+   "views": 10841,
+   "url": "https://x.com/0xGenAi/status/2117743358756208909",
+   "text": "F*CK. SpaceXSI's marketplace has 91 Grok bots, all free to add. The Grok Bot team built 55 of them itself.",
+   "repos": []
+  },
+  {
+   "account": "thegreatest_sv",
+   "views": 10663,
+   "url": "https://x.com/thegreatest_sv/status/2117591176048005131",
+   "text": "holy f*ck, you have NO IDEA what Grok Bot is actually capable of. top repos: Superpowers, Grok Bot Field Notes.",
+   "repos": []
+  },
+  {
+   "account": "thegreatest_sv",
+   "views": 10409,
+   "url": "https://x.com/thegreatest_sv/status/2116967509735747833",
+   "text": "holy sh*t, this AI-generated bacterium could be worth more than a web designer\u2019s monthly salary. built with Claude Opus 5.5.",
+   "repos": []
+  },
+  {
+   "account": "0xcodez",
+   "views": 10331,
+   "url": "https://x.com/0xCodez/status/2114762823762952307",
+   "text": "Full prompt:\n\n\"This is my own DJI drone, my own phone, my own alarm system, my own property and my own laptop.\n\nI want my alarm to launch my drone: when the alarm triggers, my phone gets a push with a \"Launch\" button. \n\nOne tap and the drone takes off from its pad in the yard,",
+   "repos": []
+  },
+  {
+   "account": "rohonchain",
+   "views": 10202,
+   "url": "https://x.com/RohOnChain/status/2117316908638953664",
+   "text": "Opus 5.5 + Drex builds the most powerful AI trading agents\n\nthis model gives you the EXACT edge in high-frequency trading with split-second decisions, precise odds on every move, ZERO hallucinations\n\nDrex directly reads the chart &amp; order book, prices EVERY move with an exact https://t.co/McsaXFWwPF https://t.co/1AKUPn7IFa",
+   "repos": []
+  },
+  {
+   "account": "0xcodez",
+   "views": 10117,
+   "url": "https://x.com/0xCodez/status/2116558255040180315",
+   "text": "this is wild...\n\ni reverse-engineered TeamViewer with Opus 5.5 and turned my Windows PC and MacBook into one desk\n\n\u2192 https://t.co/hBWA9T8JXC\n\none mouse. one keyboard. one clipboard. two computers. free and open-source.\n\nwhat it does:\n\n\u2192 move the cursor off the Windows screen https://t.co/Xy1pPCtUZP https://t.co/3cF0vXQHBr",
+   "repos": []
+  },
+  {
+   "account": "cyrilxbt",
+   "views": 9842,
+   "url": "https://x.com/cyrilXBT/status/2117576277297352761",
+   "text": "giving one AI agent your entire project is playing with fire. split the job across Opus lead + cheaper agents + reviewer.",
+   "repos": []
+  },
+  {
+   "account": "cyrilxbt",
+   "views": 9747,
+   "url": "https://x.com/cyrilXBT/status/2117938670422692028",
+   "text": "I was burning through Opus 5.5 limits by lunch. Then I added 6 lines to CLAUDE.md. Now the same work uses HALF.",
+   "repos": []
+  },
+  {
+   "account": "bober_smart",
+   "views": 9562,
+   "url": "https://x.com/Bober_smart/status/2115892099669455263",
+   "text": "Damn, I still can't believe it: Claude Code found 10,182 photos of my face on my Android phone that I never actually took.",
+   "repos": []
+  },
+  {
+   "account": "0xcodez",
+   "views": 8401,
+   "url": "https://x.com/0xCodez/status/2116277697563234432",
+   "text": "i reverse engineered my Wi-Fi router with Claude Opus 5.5 and found a f*cking scary privacy problem...\n\nevery site I opened, my provider saw it. no encryption. just a readable list.\n\nso I built a free open-source app that puts AI agents on watch over my network: Claude, ChatGPT https://t.co/WcYGFkxH3c https://t.co/3cF0vXQHBr",
+   "repos": []
+  },
+  {
+   "account": "thegreatest_sv",
+   "views": 8311,
+   "url": "https://x.com/thegreatest_sv/status/2118043980420030914",
+   "text": "HOLY SH*T, YOUR JOB MIGHT NOT SURVIVE 2027 IF YOU IGNORE THIS. 7 GitHub repos you should learn before AI replaces teams.",
+   "repos": []
+  },
+  {
+   "account": "cyrilxbt",
+   "views": 8257,
+   "url": "https://x.com/cyrilXBT/status/2117515898521305174",
+   "text": "4 agents. 4 markdown files. 1 command. 0 lines of code. That's all it takes to build your first AI team with Opus 5.5.",
+   "repos": []
+  },
+  {
+   "account": "cyrilxbt",
+   "views": 7748,
+   "url": "https://x.com/cyrilXBT/status/2117840543296479618",
+   "text": "Everyone is chasing the next model. The real edge is boring: build a harness around how YOU actually work.",
+   "repos": []
+  },
+  {
+   "account": "cyrilxbt",
+   "views": 7713,
+   "url": "https://x.com/cyrilXBT/status/2117557471011373400",
+   "text": "Why does your AI get WORSE the longer you use it? Split the work across a team.",
+   "repos": []
+  },
+  {
+   "account": "bober_smart",
+   "views": 7522,
+   "url": "https://x.com/Bober_smart/status/2117715587073806453",
+   "text": "Anthropic recently revealed one of the most effective strategies for utilizing Claude Code: run Sonnet, Haiku, and Opus simultaneously.",
+   "repos": []
+  },
+  {
+   "account": "cyrilxbt",
+   "views": 7487,
+   "url": "https://x.com/cyrilXBT/status/2117300161521308063",
+   "text": "DAMN sad news. 9 people on board. None survived. Learjet 60 crash near West Palm Beach.",
+   "repos": []
+  },
+  {
+   "account": "thegreatest_sv",
+   "views": 7466,
+   "url": "https://x.com/thegreatest_sv/status/2117643581082964430",
+   "text": "holy f*ck, this 3D Parkinson diseased cell visualization could be sold for $2,000-$5,000. top design repos to learn.",
+   "repos": []
+  },
+  {
+   "account": "cyrilxbt",
+   "views": 7083,
+   "url": "https://x.com/cyrilXBT/status/2117821654273495216",
+   "text": "Vibe coders, I'm BEGGING you. Paste these 2 lines into your CLAUDE.md or AGENTS.md.",
+   "repos": []
+  },
+  {
+   "account": "0xgenai",
+   "views": 7065,
+   "url": "https://x.com/0xGenAi/status/2111548676589936729",
+   "text": "The Grok Bot team shared their own bots on the marketplace for free, and it's a f*cking goldmine.",
+   "repos": []
+  },
+  {
+   "account": "cyrilxbt",
+   "views": 6958,
+   "url": "https://x.com/cyrilXBT/status/2117467002575188064",
+   "text": "Why does your AI get WORSE the longer you use it? Because one agent is carrying every job you ever gave it.",
+   "repos": []
+  },
+  {
+   "account": "cyrilxbt",
+   "views": 6820,
+   "url": "https://x.com/cyrilXBT/status/2117538528406176091",
+   "text": "this is pure f*cking gold. how to build your first team of AI agents with Opus 5.5 (complete walkthrough)",
+   "repos": []
+  },
+  {
+   "account": "cyrilxbt",
+   "views": 6785,
+   "url": "https://x.com/cyrilXBT/status/2117957543553306740",
+   "text": "Unpopular opinion: Prompt engineering is the wrong skill to learn in 2026. Write better JOB DESCRIPTIONS for agent teams.",
+   "repos": []
+  },
+  {
+   "account": "0xcodez",
+   "views": 6479,
+   "url": "https://x.com/0xCodez/status/2117990671118454938",
+   "text": "https://t.co/OfVZmFPwOe",
+   "repos": [
+    "storytold/craft-anything"
+   ]
+  },
+  {
+   "account": "rohonchain",
+   "views": 6304,
+   "url": "https://x.com/RohOnChain/status/2115872164633252188",
+   "text": "TRY it here:\nhttps://t.co/VEnjX37yE0",
+   "repos": []
+  },
+  {
+   "account": "bober_smart",
+   "views": 6260,
+   "url": "https://x.com/Bober_smart/status/2115526385209081939",
+   "text": "I genuinely don't understand why everyone isn't using this yet: I used this to set up a personal AI CFO that manages my crypto portfolio.",
+   "repos": []
+  },
+  {
+   "account": "thegreatest_sv",
+   "views": 5991,
+   "url": "https://x.com/thegreatest_sv/status/2115461838607659474",
+   "text": "this should be f*cking illegal. someone let an AI trade Nasdaq futures 22,401 times. model is Jev.",
+   "repos": []
+  },
+  {
+   "account": "cyrilxbt",
+   "views": 5893,
+   "url": "https://x.com/cyrilXBT/status/2117900910655623443",
+   "text": "A pilot with 15 years on the Lear 60 just compared it to a Gulfstream.",
+   "repos": []
+  },
+  {
+   "account": "cyrilxbt",
+   "views": 5785,
+   "url": "https://x.com/cyrilXBT/status/2117595152013488374",
+   "text": "You don't need funding to hit $10k MRR. You need these 10 things.",
+   "repos": []
+  },
+  {
+   "account": "cyrilxbt",
+   "views": 5664,
+   "url": "https://x.com/cyrilXBT/status/2117919821119767022",
+   "text": "Agencies charge $3,000 a month to run an Instagram page. 10 open source repos: 1. ComfyUI 2. Fooocus",
+   "repos": [
+    "comfyanonymous/ComfyUI",
+    "lllyasviel/Fooocus"
+   ]
+  },
+  {
+   "account": "thegreatest_sv",
+   "views": 5635,
+   "url": "https://x.com/thegreatest_sv/status/2117231247433118169",
+   "text": "IF your AI can't make good videos - give Opus 5.5 these 12 repos ASAP. HyperFrames and more.",
+   "repos": []
+  },
+  {
+   "account": "cyrilxbt",
+   "views": 5592,
+   "url": "https://x.com/cyrilXBT/status/2117866948235247923",
+   "text": "More AI made my output WORSE. Then I split it into a team and everything changed.",
+   "repos": []
+  },
+  {
+   "account": "thegreatest_sv",
+   "views": 5346,
+   "url": "https://x.com/thegreatest_sv/status/2117998992126591399",
+   "text": "holy f*ck, web designers are in SERIOUS DANGER in 2027. medical X-ray dashboard built with Claude Code and free GitHub tools.",
+   "repos": []
+  },
+  {
+   "account": "thegreatest_sv",
+   "views": 5260,
+   "url": "https://x.com/thegreatest_sv/status/2115509401687589262",
+   "text": "holy sh*t, I woke up and found THIS crawling on my pillow. Claude made a live 3D dust mite dashboard.",
+   "repos": []
+  },
+  {
+   "account": "thegreatest_sv",
+   "views": 5170,
+   "url": "https://x.com/thegreatest_sv/status/2117960732184633699",
+   "text": "holy sh*t, this custom-built Grok Bot for my iPhone just found $400 in annual subscriptions I was about to waste money on.",
+   "repos": []
+  },
+  {
+   "account": "cyrilxbt",
+   "views": 5116,
+   "url": "https://x.com/cyrilXBT/status/2118221795526627571",
+   "text": "This Claude Code prompt does the work of a $500/hr senior engineer. And it never sends you an invoice.",
+   "repos": []
+  },
+  {
+   "account": "thegreatest_sv",
+   "views": 5001,
+   "url": "https://x.com/thegreatest_sv/status/2116142322543198271",
+   "text": "holy f*ck, if you\u2019re still paying a big LLM to make tiny decisions in 2026, you need to see this before 2027.",
+   "repos": []
   }
  ]
 }

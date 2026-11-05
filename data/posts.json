@@ -9,5 +9,16 @@
   "status": "drafted",
   "post_url": null,
   "recommended_time": "7:30 AM Boise (MT)"
+ },
+ {
+  "date": "2026-11-05",
+  "repo": "ollama/ollama",
+  "stars": 185989,
+  "text": "holy sh*t, you can run ChatGPT-class models on your laptop for free\n\nOllama: one command, and DeepSeek, Llama, Qwen, Gemma or gpt-oss are running locally \u2014 offline, private, yours\n\n\u2192 works on Mac, Linux, Windows\n\u2192 185K+ GitHub stars\n\u2192 100% free and open source\n\ngithub.com/ollama/ollama",
+  "video": "assets/2026-11-05.mp4",
+  "poster": "assets/2026-11-05-poster.png",
+  "status": "drafted",
+  "post_url": null,
+  "recommended_time": "7:30 AM Boise (MT)"
  }
 ]
