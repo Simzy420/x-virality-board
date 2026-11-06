@@ -20,5 +20,16 @@
   "status": "drafted",
   "post_url": null,
   "recommended_time": "7:30 AM Boise (MT)"
+ },
+ {
+  "date": "2026-11-06",
+  "repo": "firecrawl/firecrawl",
+  "stars": 199123,
+  "text": "holy sh*t, your AI agents can now scrape the entire web like it's an API\n\nFirecrawl: turn any website into clean LLM-ready markdown, JSON or screenshots \u2014 built for agents, RAG and research\n\n\u2192 crawl / scrape / map / extract in one SDK\n\u2192 199K+ GitHub stars\n\u2192 open source, self-host or cloud\n\ngithub.com/firecrawl/firecrawl",
+  "video": "assets/2026-11-06.mp4",
+  "poster": "assets/2026-11-06-poster.png",
+  "status": "drafted",
+  "post_url": null,
+  "recommended_time": "7:30 AM Boise (MT)"
  }
 ]
