@@ -31,5 +31,16 @@
   "status": "drafted",
   "post_url": null,
   "recommended_time": "7:30 AM Boise (MT)"
+ },
+ {
+  "date": "2026-11-07",
+  "repo": "FoundationAgents/MetaGPT",
+  "stars": 71207,
+  "text": "holy sh*t, you can now hire an entire AI software company with ONE prompt\n\nMetaGPT gives you a PM, architect, project manager and engineers, all AI agents, each doing one job and handing off like a real team\n\n\u2192 one line in, PRD + design + tasks + code out\n\u2192 71K+ GitHub stars\n\u2192 100% open source (MIT)\n\ngithub.com/FoundationAgents/MetaGPT",
+  "video": "assets/2026-11-07.mp4",
+  "poster": "assets/2026-11-07-poster.png",
+  "status": "drafted",
+  "post_url": null,
+  "recommended_time": "7:30 AM Boise (MT)"
  }
 ]
