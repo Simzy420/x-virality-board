@@ -1,5 +1,5 @@
 {
- "date": "2026-11-07",
+ "date": "2026-11-09",
  "handle": "Big_Brain_Ape",
  "watchlist": [
   "thegreatest_sv",
@@ -10,132 +10,104 @@
   "0xcodez"
  ],
  "recommended_time": "7:30 AM Boise (MT)",
- "notes": "Meta today: multi-agent teams (plan/build/review/test), Grok Bot 24/7 trading agents, Karpathy small LLMs. Pick rides the 'team of agents' hook.",
+ "notes": "Memory/second-brain meta is hot (cyrilXBT memory posts, 11k+); 3D-agent and trading-strategy hooks led the watchlist.",
  "hits": [
   {
+   "account": "thegreatest_sv",
+   "views": 82401,
+   "url": "https://x.com/thegreatest_sv/status/2119129564047982889",
+   "text": "holy f*ck, 3D DESIGNERS ARE NOT READY FOR WHAT\u2019S COMING IN 2027.  your next competitor might not even know how to use Blender.  just ONE per",
+   "repos": []
+  },
+  {
+   "account": "rohonchain",
+   "views": 56796,
+   "url": "https://x.com/RohOnChain/status/2119134600492630286",
+   "text": "this is the most DANGEROUS thing on internet today  4,843 backtested trading strategies for FREE, with the MOST profitable ones ranked by th",
+   "repos": []
+  },
+  {
    "account": "0xcodez",
-   "views": 458978,
-   "url": "https://x.com/0xCodez/status/2118424826968748242",
-   "text": "Andrej Karpathy: A 1B model can be much more effective than most current LLMs... his 5 core thesis about Small LLMs",
-   "repos": []
-  },
-  {
-   "account": "rohonchain",
-   "views": 392716,
-   "url": "https://x.com/RohOnChain/status/2118427077875745100",
-   "text": "i still don't understand why everyone is NOT building 24/7 trading agents with Grok Bot",
-   "repos": []
-  },
-  {
-   "account": "rohonchain",
-   "views": 113327,
-   "url": "https://x.com/RohOnChain/status/2118783992946381049",
-   "text": "I am begging you to paste this into Grok Bot before bed... builds you a trading bot to discover profitable strategies 24/7",
+   "views": 49611,
+   "url": "https://x.com/0xCodez/status/2119480623077212413",
+   "text": "i reverse engineered the MacBook's new iPhone Mirroring for my Windows PC with Opus 5.5  this is f*cking insane...  now i can scroll X feed ",
    "repos": []
   },
   {
    "account": "thegreatest_sv",
-   "views": 53216,
-   "url": "https://x.com/thegreatest_sv/status/2118770137646162218",
-   "text": "holy f*ck, NO HUMAN WEB DESIGNER WANTS TO COMPETE WITH THIS IN 2027... 7 GitHub repos you NEED to learn",
+   "views": 29213,
+   "url": "https://x.com/thegreatest_sv/status/2119478303681871900",
+   "text": "holy f*ck, THIS IS WHY 3D ANIMATORS SHOULD BE WORRIED ABOUT 2027.  you\u2019re watching a digital human whose facial expressions can be controlle",
    "repos": []
   },
   {
    "account": "rohonchain",
-   "views": 19995,
-   "url": "https://x.com/RohOnChain/status/2118378233985221005",
-   "text": "this is f*cking DANGEROUS, i just built a trading system that combines 50 weak signals into one trade",
+   "views": 25609,
+   "url": "https://x.com/RohOnChain/status/2119499817349206031",
+   "text": "Ask your Grok Bot agent this:  \u201cBuild me a 24/7 trading bot that researches the entire market overnight &amp; finds profitable strategies, b",
+   "repos": []
+  },
+  {
+   "account": "cyrilxbt",
+   "views": 21543,
+   "url": "https://x.com/cyrilXBT/status/2119290072029880659",
+   "text": "4,843 backtested trading strategies.  Free.  Ranked by Sharpe ratio. The top one sits at 3.39.  Here's what's inside:  \u2192 every strategy test",
+   "repos": []
+  },
+  {
+   "account": "cyrilxbt",
+   "views": 11778,
+   "url": "https://x.com/cyrilXBT/status/2119414893879460180",
+   "text": "this is pure f*cking gold  Andrej Karpathy doesn't use Notion.  No Obsidian plugins.  No notes app at all.  His second brain is a folder of ",
+   "repos": []
+  },
+  {
+   "account": "cyrilxbt",
+   "views": 11396,
+   "url": "https://x.com/cyrilXBT/status/2119625448610988492",
+   "text": "https://t.co/1XFDyfiXBX",
+   "repos": []
+  },
+  {
+   "account": "cyrilxbt",
+   "views": 10816,
+   "url": "https://x.com/cyrilXBT/status/2119346732178051310",
+   "text": "POV: you dropped $1,000 on an AI agents course\u2026 then discovered the exact same thing is available for FREE https://t.co/T78fkzp9Fv https://t",
+   "repos": []
+  },
+  {
+   "account": "cyrilxbt",
+   "views": 9770,
+   "url": "https://x.com/cyrilXBT/status/2119324053496606959",
+   "text": "i run 80% of my life on grok bots...  98 bots. 27 routines.  they sort my inbox, prep my calendar, read the news, draft my content and ship ",
+   "repos": []
+  },
+  {
+   "account": "cyrilxbt",
+   "views": 9198,
+   "url": "https://x.com/cyrilXBT/status/2119369362520080663",
+   "text": "i\u2019m literally pleading with you to drop this into grok tonight...  it\u2019ll crank out the most lethal one-person business you can run right now",
+   "repos": []
+  },
+  {
+   "account": "cyrilxbt",
+   "views": 7958,
+   "url": "https://x.com/cyrilXBT/status/2119271210546786600",
+   "text": "REA can open your app in one command and read it like a book.  A solo dev just made that a lot more expensive.  It's called BLA (Blind LLM A",
+   "repos": []
+  },
+  {
+   "account": "cyrilxbt",
+   "views": 7415,
+   "url": "https://x.com/cyrilXBT/status/2119127276013109261",
+   "text": "this ONE prompt will replace a $1000/hr senior engineer... https://t.co/BIBtwjj3xV https://t.co/t4TrPyPSAC",
    "repos": []
   },
   {
    "account": "thegreatest_sv",
-   "views": 19224,
-   "url": "https://x.com/thegreatest_sv/status/2118724335905148990",
-   "text": "IF YOU'RE A WEB DESIGNER IN 2026... save these 7 GitHub repos for your LLM: 1. Three.js",
-   "repos": [
-    "mrdoob/three.js"
-   ]
-  },
-  {
-   "account": "bober_smart",
-   "views": 15187,
-   "url": "https://x.com/Bober_smart/status/2118429681892364383",
-   "text": "Eric Schmidt: build a company in the field of agentic AI",
-   "repos": []
-  },
-  {
-   "account": "bober_smart",
-   "views": 8106,
-   "url": "https://x.com/Bober_smart/status/2118359362448073001",
-   "text": "Anthropic tip for Claude Code: use Sonnet, Haiku and Opus 5.5 at once",
-   "repos": []
-  },
-  {
-   "account": "cyrilxbt",
-   "views": 8032,
-   "url": "https://x.com/cyrilXBT/status/2118543141674549436",
-   "text": "INSTEAD OF WATCHING NETFLIX TONIGHT, a full Claude course on agents and workflows",
-   "repos": []
-  },
-  {
-   "account": "cyrilxbt",
-   "views": 7942,
-   "url": "https://x.com/cyrilXBT/status/2118621965561086072",
-   "text": "That no name gadget next to your bed might be talking to someone",
-   "repos": []
-  },
-  {
-   "account": "cyrilxbt",
-   "views": 7347,
-   "url": "https://x.com/cyrilXBT/status/2118675021497544757",
-   "text": "I am begging you to paste this into Opus 5.5 before bed... builds an entire team of AI agents",
-   "repos": []
-  },
-  {
-   "account": "cyrilxbt",
-   "views": 7074,
-   "url": "https://x.com/cyrilXBT/status/2118565299926831126",
-   "text": "9 GITHUB REPOS THAT LET YOU SCRAPE ANY WEBSITE WITHOUT GETTING BLOCKED",
-   "repos": [
-    "unclecode/crawl4ai",
-    "firecrawl/firecrawl"
-   ]
-  },
-  {
-   "account": "cyrilxbt",
-   "views": 6910,
-   "url": "https://x.com/cyrilXBT/status/2118587942885372340",
-   "text": "My Grok Bots used to make the same mistakes every day. Now they fix themselves overnight",
-   "repos": []
-  },
-  {
-   "account": "bober_smart",
-   "views": 5915,
-   "url": "https://x.com/Bober_smart/status/2118781819319660839",
-   "text": "leaked guide: Claude Code becomes a web crawler with Playwright CLI",
-   "repos": [
-    "microsoft/playwright"
-   ]
-  },
-  {
-   "account": "cyrilxbt",
-   "views": 5715,
-   "url": "https://x.com/cyrilXBT/status/2118606857967386911",
-   "text": "how easy it is to give your Grok Bot agents a real office",
-   "repos": []
-  },
-  {
-   "account": "cyrilxbt",
-   "views": 5638,
-   "url": "https://x.com/cyrilXBT/status/2118655937070432320",
-   "text": "opus 5.5 is insane, i typed one command and 4 AI agents went to work",
-   "repos": []
-  },
-  {
-   "account": "cyrilxbt",
-   "views": 5029,
-   "url": "https://x.com/cyrilXBT/status/2118912583201927417",
-   "text": "paste this into Claude Opus 5.5 and it'll spin up your first crew of AI agents",
+   "views": 5229,
+   "url": "https://x.com/thegreatest_sv/status/2119416647849275663",
+   "text": "holy f*ck, A FRIEND OF MINE GOT FIRED. AND WHAT AI CAN DO NOW IS TERRIFYING.  he spent years learning web design.  now people with the right",
    "repos": []
   }
  ]

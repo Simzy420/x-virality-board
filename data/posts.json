@@ -42,5 +42,16 @@
   "status": "drafted",
   "post_url": null,
   "recommended_time": "7:30 AM Boise (MT)"
+ },
+ {
+  "date": "2026-11-09",
+  "repo": "mem0ai/mem0",
+  "stars": 68685,
+  "text": "holy sh*t, your AI agent finally stops forgetting you\n\nMem0 is a drop-in memory layer: it pulls the facts out of every chat, stores them, and recalls the right ones next session\n\n\u2192 add() + search(), a few lines of Python\n\u2192 works with OpenAI, Claude, and local LLMs\n\u2192 68K+ GitHub stars\n\u2192 100% open source (Apache-2.0)\n\ngithub.com/mem0ai/mem0",
+  "video": "assets/2026-11-09.mp4",
+  "poster": "assets/2026-11-09-poster.png",
+  "status": "drafted",
+  "post_url": null,
+  "recommended_time": "7:30 AM Boise (MT)"
  }
 ]
