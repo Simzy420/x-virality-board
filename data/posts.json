@@ -64,5 +64,16 @@
   "status": "drafted",
   "post_url": null,
   "recommended_time": "7:30 AM Boise (MT)"
+ },
+ {
+  "date": "2026-11-11",
+  "repo": "TauricResearch/TradingAgents",
+  "stars": 121981,
+  "text": "this is f*cking wild, someone open-sourced an entire trading firm made of AI agents\n\nTradingAgents gives one ticker to a full desk: analysts dig in, a bull and a bear argue it out, a trader makes the call, and a risk team has to sign off\n\n\u2192 fundamentals, sentiment, news, and technical analysts run in parallel\n\u2192 works with GPT, Claude, Gemini, Grok, and Ollama\n\u2192 backtests that only see data from that day\n\u2192 121K+ GitHub stars\n\nresearch only, not financial advice\n\ngithub.com/TauricResearch/TradingAgents",
+  "video": "assets/2026-11-11.mp4",
+  "poster": "assets/2026-11-11-poster.png",
+  "status": "drafted",
+  "post_url": null,
+  "recommended_time": "7:30 AM Boise (MT)"
  }
 ]

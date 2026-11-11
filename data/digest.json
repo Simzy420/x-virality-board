@@ -1,5 +1,5 @@
 {
- "date": "2026-11-10",
+ "date": "2026-11-11",
  "handle": "Big_Brain_Ape",
  "watchlist": [
   "thegreatest_sv",
@@ -10,118 +10,83 @@
   "0xcodez"
  ],
  "recommended_time": "7:30 AM Boise (MT)",
- "notes": "Watchlist meta: memory/second-brain recall tools (cyrilxbt), 'paste this into your agent' prompts (rohonchain 57K), job-loss fear hooks (thegreatest_sv 124K). Picked Dify as the build-agents-without-code angle.",
+ "notes": "Trading-agent meta: RohOnChain 22.7K on trading bots, 0xGenAi 8.6K on agent teams, cyrilXBT 5.7K on Claude Code settings. Hook: 'this is f*cking wild/brilliant' + AI team framing.",
  "hits": [
   {
+   "account": "rohonchain",
+   "views": 22670,
+   "url": "https://x.com/RohOnChain/status/2120235725392364024",
+   "text": "this is the most DANGEROUS thing on internet today\n\nevery trading Grok Bot on the internet in ONE place &amp; 100% FREE\n\nGIVE THIS TO YOUR G",
+   "repos": []
+  },
+  {
    "account": "thegreatest_sv",
-   "views": 124441,
-   "url": "https://x.com/thegreatest_sv/status/2119810744607027708",
-   "text": "holy f*ck, you WILL lose your job in 2027 if you don't learn this.  not to AI. to the person next to you who runs 5 agents while you're stil",
+   "views": 16300,
+   "url": "https://x.com/thegreatest_sv/status/2120219688974110859",
+   "text": "ARE YOU MORE SCARED OF THIS GHOUL HEAD OR OF LOSING YOUR JOB IN 2027?\n\n512 x 512 x 340 voxels of real scan data inside Blender. skin, muscle",
    "repos": []
   },
   {
-   "account": "rohonchain",
-   "views": 57125,
-   "url": "https://x.com/RohOnChain/status/2119899370971902424",
-   "text": "I am begging you to paste this into Grok Bot right now, it will probably make you a lot of money.  It scans the whole market instantly &amp;",
-   "repos": []
-  },
-  {
-   "account": "cyrilxbt",
-   "views": 29982,
-   "url": "https://x.com/cyrilXBT/status/2119625448610988492",
-   "text": "https://t.co/1XFDyfiXBX",
-   "repos": []
-  },
-  {
-   "account": "rohonchain",
-   "views": 12170,
-   "url": "https://x.com/RohOnChain/status/2119826935031439554",
-   "text": "this is f*cking DANGEROUS  Jane Street just gave away their internal AI agent skills for 100% FREE  i gave these skills to Claude Opus 5.5 &",
+   "account": "0xcodez",
+   "views": 14528,
+   "url": "https://x.com/0xCodez/status/2120168581564379311",
+   "text": "this is crazy...\n\nthis one prompt reduced my GrokBot usage by 90%, by handing tasks to Opus 5.5, Sonnet &amp; Haiku\n\nnow i'm using GrokBot f",
    "repos": []
   },
   {
    "account": "cyrilxbt",
-   "views": 10177,
-   "url": "https://x.com/cyrilXBT/status/2120021709189501314",
-   "text": "I\u2019m literally pleading with you: drop this into Opus 5.5 before you go to sleep\u2026  By morning, it\u2019ll spin up your very first AI agent squad f",
-   "repos": []
-  },
-  {
-   "account": "cyrilxbt",
-   "views": 8158,
+   "views": 9716,
    "url": "https://x.com/cyrilXBT/status/2120028299737112763",
-   "text": "the US government spent 3 years blocking china from getting nvidia chips  china: \"what if we just got him a girlfriend\" https://t.co/QTWtBUj",
+   "text": "the US government spent 3 years blocking china from getting nvidia chips\n\nchina: \"what if we just got him a girlfriend\" https://t.co/QTWtBUj",
+   "repos": []
+  },
+  {
+   "account": "0xgenai",
+   "views": 8621,
+   "url": "https://x.com/0xGenAi/status/2120243742657368359",
+   "text": "this is f*cking brilliant...\n\n6 Grok Bots can turn one person into an entire sales team.\n\nOne finds leads. One researches them. One writes t",
    "repos": []
   },
   {
    "account": "cyrilxbt",
-   "views": 6719,
-   "url": "https://x.com/cyrilXBT/status/2119686466427314326",
-   "text": "What did the last podcast you listened to actually teach you?  Be honest.  You don't remember.  That's not a you problem.  Your brain was bu",
+   "views": 7299,
+   "url": "https://x.com/cyrilXBT/status/2120162108096798847",
+   "text": "Your second brain is not a storage system.\n\nIt's a COMPILER.\n\nAnd that one shift explains why most people's vaults are useless.\n\nStorage thi",
    "repos": []
   },
   {
    "account": "cyrilxbt",
-   "views": 6272,
-   "url": "https://x.com/cyrilXBT/status/2119855947585818729",
-   "text": "Best uncensored AI models you can run on your own computer right now  No API. No subscription. No one reading your chats.  Organized by how ",
+   "views": 6828,
+   "url": "https://x.com/cyrilXBT/status/2120185037551485391",
+   "text": "watched an 18-year-old throw together a trading bot with Grok Bot in 3 days like it was nothing\n\nnight one: $2,473 profit\nstarting with: $86",
    "repos": []
   },
   {
    "account": "cyrilxbt",
-   "views": 5978,
-   "url": "https://x.com/cyrilXBT/status/2119758153231524156",
-   "text": "BEFORE: Read a book. Forget it in a week. Hear a great podcast. Gone by dinner. Meet someone interesting. Can't remember their name.  AFTER:",
-   "repos": []
-  },
-  {
-   "account": "bober_smart",
-   "views": 5546,
-   "url": "https://x.com/Bober_smart/status/2119878508277330338",
-   "text": "This is f*cking insane! Boris Cherny, the creator of Claude Code, was recently asked if people still need to learn how to code, and his answ",
+   "views": 5982,
+   "url": "https://x.com/cyrilXBT/status/2120138109526675543",
+   "text": "The CEO of Obsidian put his OWN vault on GitHub.\n\nFree.\n\nAnd people are still building their second brain from a blank page.\n\n7 free repos f",
    "repos": []
   },
   {
    "account": "cyrilxbt",
-   "views": 5326,
-   "url": "https://x.com/cyrilXBT/status/2119648717200556452",
-   "text": "POV: someone asks what that book taught you  and instead of \"uhh I don't remember\"  you type /recall  and get the 3 key ideas, why they matt",
+   "views": 5667,
+   "url": "https://x.com/cyrilXBT/status/2120411227457503651",
+   "text": "i can't comprehend why people run claude code on default settings\n\none settings change and every model gets its own job:\n\n\u2192 opus plans every",
    "repos": []
   },
   {
    "account": "cyrilxbt",
-   "views": 5232,
-   "url": "https://x.com/cyrilXBT/status/2119709085876764750",
-   "text": "4 commands replaced my entire notes app.  /remember \u2192 turns anything I read into memory cards /recall \u2192 answers any question from my own mem",
-   "repos": []
-  },
-  {
-   "account": "bober_smart",
-   "views": 5189,
-   "url": "https://x.com/Bober_smart/status/2119509946698170389",
-   "text": "I think I created a monster  Last weekend I built a tiny tool with Claude Code. The idea was simple: clean up my old MacBook before selling ",
+   "views": 5573,
+   "url": "https://x.com/cyrilXBT/status/2120207370991391084",
+   "text": "this is pure f*cking gold\n\nJane Street, one of the smartest trading firms on the planet, just put its first AI skill on GitHub.\n\nEveryone ex",
    "repos": []
   },
   {
    "account": "cyrilxbt",
-   "views": 5109,
-   "url": "https://x.com/cyrilXBT/status/2119731769876652037",
-   "text": "Close the book you're reading.  Now name the 3 biggest ideas in it.  You can't.  Neither can most people.  Within days, most of what you lea",
-   "repos": []
-  },
-  {
-   "account": "bober_smart",
-   "views": 5067,
-   "url": "https://x.com/Bober_smart/status/2119795218438332618",
-   "text": "Why isn't everyone using this yet?\u00a0  During a recent interview, Anthropic CEO Dario Amodei highlighted the top 10 most impactful Claude feat",
-   "repos": []
-  },
-  {
-   "account": "cyrilxbt",
-   "views": 5005,
-   "url": "https://x.com/cyrilXBT/status/2119831766794117524",
-   "text": "Bitcoin just dropped below Michael Saylor's cost basis.  Strategy holds 849,327 BTC at an average price of $75,451.  Right now BTC is around",
+   "views": 5432,
+   "url": "https://x.com/cyrilXBT/status/2120358374378492148",
+   "text": "Every friday i ask my AI team one question\n\n\"which bot did nothing useful this week?\"\n\nthen i delete it\n\nthat's the part nobody does\n\nhere's",
    "repos": []
   }
  ]
