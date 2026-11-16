@@ -75,5 +75,16 @@
   "status": "drafted",
   "post_url": null,
   "recommended_time": "7:30 AM Boise (MT)"
+ },
+ {
+  "date": "2026-11-16",
+  "repo": "OpenHands/OpenHands",
+  "stars": 93581,
+  "text": "holy f*ck, someone open-sourced an AI software engineer that ships the PR itself\n\nOpenHands takes a GitHub issue, spins up a sandbox, reads your codebase, writes the fix, runs the tests, and opens the pull request\n\n\u2192 edits code, runs terminal commands, browses docs\n\u2192 everything runs sandboxed in Docker\n\u2192 works with Claude, GPT, Gemini, or local models\n\u2192 93K+ GitHub stars, MIT-licensed core\n\nassign the issue. go make coffee.\n\ngithub.com/OpenHands/OpenHands",
+  "video": "assets/2026-11-16.mp4",
+  "poster": "assets/2026-11-16-poster.png",
+  "status": "drafted",
+  "post_url": null,
+  "recommended_time": "7:30 AM Boise (MT)"
  }
 ]
