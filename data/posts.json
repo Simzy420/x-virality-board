@@ -86,5 +86,16 @@
   "status": "drafted",
   "post_url": null,
   "recommended_time": "7:30 AM Boise (MT)"
+ },
+ {
+  "date": "2026-11-17",
+  "repo": "n8n-io/n8n",
+  "stars": 210744,
+  "text": "holy f*ck, people are still paying for Zapier when this is free on GitHub\n\nn8n lets you drag-and-drop AI agents that actually run your business: a trigger fires, the agent thinks, the tools execute, and the job is done\n\n\u2192 native AI agent nodes with tools + memory\n\u2192 400+ integrations (Gmail, Slack, Notion, Sheets...)\n\u2192 drop into JS/Python when nodes aren't enough\n\u2192 self-host it free with one docker command\n\u2192 210K+ GitHub stars\n\nbuild it once. it runs forever.\n\ngithub.com/n8n-io/n8n",
+  "video": "assets/2026-11-17.mp4",
+  "poster": "assets/2026-11-17-poster.png",
+  "status": "drafted",
+  "post_url": null,
+  "recommended_time": "7:30 AM Boise (MT)"
  }
 ]

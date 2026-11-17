@@ -1,5 +1,5 @@
 {
- "date": "2026-11-16",
+ "date": "2026-11-17",
  "handle": "Big_Brain_Ape",
  "watchlist": [
   "thegreatest_sv",
@@ -10,126 +10,111 @@
   "0xcodez"
  ],
  "recommended_time": "7:30 AM Boise (MT)",
- "notes": "Watchlist meta: 'holy f*ck' hooks, free Grok Bot agent templates/masterclasses, Fable 5.2 tips. Top: Bober_smart 334K, RohOnChain 45K, 0xCodez 43K. No repos pushed by watchlist.",
+ "notes": "Watchlist leaned hard on Claude Code / agent-team hooks and 'holy f*ck' openers; top hit thegreatest_sv 63.6K. Repos pushed: anthropics/skills, walkinglabs/learn-harness-engineering, deepseek chat app.",
  "hits": [
   {
+   "account": "thegreatest_sv",
+   "views": 63575,
+   "url": "https://x.com/thegreatest_sv/status/2122353750912483747",
+   "text": "holy f*ck, high-end 3d modelling is more accessible than ever. hear me out\n\nspiked crown. armored scales. a jaw full of needle teeth. claws,",
+   "repos": [],
+   "created_at": "2026-11-16T15:39:00.000Z"
+  },
+  {
    "account": "bober_smart",
-   "views": 334416,
-   "url": "https://x.com/Bober_smart/status/2121686230467285097",
-   "text": "I still don't understand why everyone isn't doing this yet. Elon Musk reposted this guide, and using this exact agent setup, I made $8,700 j",
-   "repos": []
+   "views": 52169,
+   "url": "https://x.com/Bober_smart/status/2122412378835091855",
+   "text": "I still don't understand why everyone isn't doing this yet. Elon Musk reposted this guide, and using this exact agent stack is how I made $7",
+   "repos": [],
+   "created_at": "2026-11-16T19:31:58.000Z"
   },
   {
    "account": "rohonchain",
-   "views": 45332,
-   "url": "https://x.com/RohOnChain/status/2121989598616400298",
-   "text": "holy f*ck...a 26 y/o just WON the World Trading Championship with a 100% return in ONE month\n\nthen he went on camera &amp; explained his ENT",
-   "repos": []
-  },
-  {
-   "account": "0xcodez",
-   "views": 43245,
-   "url": "https://x.com/0xCodez/status/2122089481373421966",
-   "text": "SpaceXAI engineer, Lauren Tan just dropped a free 1-hour masterclass on build team of GrokBot agents and loops from 0% to 100%:\n\n\u201cI\u2019ve gotte",
-   "repos": []
-  },
-  {
-   "account": "bober_smart",
-   "views": 12093,
-   "url": "https://x.com/Bober_smart/status/2121961401363169571",
-   "text": "Damn awesome\n\nSpaceXAI just dropped 146 Grok Bot templates for free. Originally priced at $28,700\n\nNormally, off-the-shelf bots like these c",
-   "repos": []
-  },
-  {
-   "account": "thegreatest_sv",
-   "views": 10387,
-   "url": "https://x.com/thegreatest_sv/status/2122038423082963328",
-   "text": "holy f*ck, a client just asked me why they should pay a web designer in 2027\n\nI didn't have a good answer. so I built this Monster in this 3",
-   "repos": []
-  },
-  {
-   "account": "thegreatest_sv",
-   "views": 8856,
-   "url": "https://x.com/thegreatest_sv/status/2121676287030841805",
-   "text": "WOULD YOU PAY $1,000 FOR THIS?\n\nbecause a render like this was sold to a game dev company for $1,000.\n\nholy sh*t. imagine what you could ear",
-   "repos": []
+   "views": 16024,
+   "url": "https://x.com/RohOnChain/status/2122430304384413965",
+   "text": "DAMN, Fable 5.2 builds the most DANGEROUS 24/7 trading agents...\n\npaste this into Claude Code as soon as possible\n\nit will probably make you",
+   "repos": [],
+   "created_at": "2026-11-16T20:43:12.000Z"
   },
   {
    "account": "cyrilxbt",
-   "views": 7288,
-   "url": "https://x.com/cyrilXBT/status/2121917395069780191",
-   "text": "Claude Fable 5.2 has a 1M token context window.\n\nThat doesn't mean you should fill it.\n\nLoad what the task needs.\n\nSkip the rest.\n\nTell it t",
-   "repos": []
-  },
-  {
-   "account": "cyrilxbt",
-   "views": 6734,
+   "views": 9868,
    "url": "https://x.com/cyrilXBT/status/2122166602204639235",
    "text": "\ud83d\udea8 the real threat isn\u2019t that jensen huang got pushed out\n\nthe real threat is what happens next:\n\nnvidia\u2019s top engineers aren\u2019t whispering an",
-   "repos": []
+   "repos": [],
+   "created_at": "2026-11-16T03:15:20.000Z"
   },
   {
    "account": "cyrilxbt",
-   "views": 6730,
+   "views": 9741,
    "url": "https://x.com/cyrilXBT/status/2122189172870128049",
    "text": "The guy who BUILT Claude Code just showed how he actually uses it.\n\nBoris Cherny's personal setup.\n\nAnd it's nothing like how most people ru",
-   "repos": []
-  },
-  {
-   "account": "cyrilxbt",
-   "views": 6580,
-   "url": "https://x.com/cyrilXBT/status/2121875900627345628",
-   "text": "most people are paying fable 5.2 prices for opus 5.5 work\n\nanthropic literally tells you not to\n\ntheir own docs: start with opus, move up on",
-   "repos": []
-  },
-  {
-   "account": "cyrilxbt",
-   "views": 6553,
-   "url": "https://x.com/cyrilXBT/status/2121826797981716800",
-   "text": "Fable 5.2 will quietly stop halfway through your task\n\nand hand you a to do list instead of finishing\n\nit's not a bug\n\nit's in anthropic's o",
-   "repos": []
-  },
-  {
-   "account": "cyrilxbt",
-   "views": 6546,
-   "url": "https://x.com/cyrilXBT/status/2121891045604749638",
-   "text": "i read every page anthropic published about fable 5.2 so you don't have to\n\nthe 5 things that actually matter:\n\n1. don't make it your defaul",
-   "repos": []
-  },
-  {
-   "account": "cyrilxbt",
-   "views": 6506,
-   "url": "https://x.com/cyrilXBT/status/2121800440639811713",
-   "text": "this isn't animation software\n\nit's not a video model either\n\nit's 368 lines of code\n\ni gave fable 5.2 one prompt and it wrote a 60 second f",
-   "repos": []
-  },
-  {
-   "account": "cyrilxbt",
-   "views": 6069,
-   "url": "https://x.com/cyrilXBT/status/2121857001408057649",
-   "text": "If you\u2019re still prompting fable 5.2 the way you prompted older models, you\u2019re getting the cheap version of it.\n\nit\u2019s mythos tier.\n\nsame unde",
-   "repos": []
-  },
-  {
-   "account": "cyrilxbt",
-   "views": 5743,
-   "url": "https://x.com/cyrilXBT/status/2121947575255478420",
-   "text": "Claude Fable 5.2 is 20% cheaper per token.\n\nYour bill can still go up.\n\nEffort, subagents and fast mode all multiply what you spend.\n\nStop t",
-   "repos": []
-  },
-  {
-   "account": "cyrilxbt",
-   "views": 5411,
-   "url": "https://x.com/cyrilXBT/status/2122211819699978517",
-   "text": "mythos 5.2 is easily the heaviest hitter model out there right now...\n\nand i just realized access is basically open to anyone at this point.",
-   "repos": []
+   "repos": [],
+   "created_at": "2026-11-16T04:45:01.000Z"
   },
   {
    "account": "bober_smart",
-   "views": 5000,
-   "url": "https://x.com/Bober_smart/status/2122049951576506697",
-   "text": "Holy sh*t. Karpathy's second brain pattern runs on Grok Bot now: stop explaining your life to AI from zero every chat. Thanks to this, I man",
-   "repos": []
+   "views": 7734,
+   "url": "https://x.com/Bober_smart/status/2122323926667673638",
+   "text": "I genuinely don't understand why everyone isn't doing this yet\n\nEvery GTA map from 1997 to 2026 took Rockstar 30 years to build, and now any",
+   "repos": [],
+   "created_at": "2026-11-16T13:40:29.000Z"
+  },
+  {
+   "account": "cyrilxbt",
+   "views": 7121,
+   "url": "https://x.com/cyrilXBT/status/2122275996103823854",
+   "text": "\ud83d\udea8 A fake claude code update put a hidden backdoor on up to 5,000 developers' computers\n\nand most of them had no idea for two weeks\n\nhere's w",
+   "repos": [],
+   "created_at": "2026-11-16T10:30:02.000Z"
+  },
+  {
+   "account": "cyrilxbt",
+   "views": 6566,
+   "url": "https://x.com/cyrilXBT/status/2122211819699978517",
+   "text": "mythos 5.2 is easily the heaviest hitter model out there right now...\n\nand i just realized access is basically open to anyone at this point.",
+   "repos": [],
+   "created_at": "2026-11-16T06:15:01.000Z"
+  },
+  {
+   "account": "cyrilxbt",
+   "views": 6076,
+   "url": "https://x.com/cyrilXBT/status/2122314015825346864",
+   "text": "Step 1: Open Claude Code.\nStep 2: Create 3 markdown files.\nStep 3: Type ONE command.\n\nYou now have an AI team.\n\nA researcher that cites ever",
+   "repos": [],
+   "created_at": "2026-11-16T13:01:06.000Z"
+  },
+  {
+   "account": "cyrilxbt",
+   "views": 5752,
+   "url": "https://x.com/cyrilXBT/status/2122249570759692650",
+   "text": "Fable 5.2 + grok bot is the best content combo i've tested this month\n\ngrok bot sits right on X and sees what's taking off in real time.\n\nfa",
+   "repos": [],
+   "created_at": "2026-11-16T08:45:01.000Z"
+  },
+  {
+   "account": "cyrilxbt",
+   "views": 5518,
+   "url": "https://x.com/cyrilXBT/status/2122230703559790960",
+   "text": "Bitcoin is down 48% from its all time high and Fear and Greed just hit 13. Here are the 3 price zones where I'm buying more.\n\nIt wicked to $",
+   "repos": [],
+   "created_at": "2026-11-16T07:30:03.000Z"
+  },
+  {
+   "account": "thegreatest_sv",
+   "views": 5467,
+   "url": "https://x.com/thegreatest_sv/status/2122398294152212851",
+   "text": "WHOEVER PUT THIS ON GITHUB IS F*CKING INSANE.\n\nsomeone just dumped 300+ AI agents into a single GitHub repo.\n\nand holy sh*t, it\u2019s basically ",
+   "repos": [],
+   "created_at": "2026-11-16T18:36:00.000Z"
+  },
+  {
+   "account": "cyrilxbt",
+   "views": 5332,
+   "url": "https://x.com/cyrilXBT/status/2122528918821654684",
+   "text": "This is dangerous.\n\nOne prompt builds your first team of AI agents, run by Claude Fable 5.2.\n\nHow it works: Fable reads your job \u2192 splits it",
+   "repos": [],
+   "created_at": "2026-11-17T03:15:03.000Z"
   }
  ]
 }
