@@ -97,5 +97,16 @@
   "status": "drafted",
   "post_url": null,
   "recommended_time": "7:30 AM Boise (MT)"
+ },
+ {
+  "date": "2026-11-18",
+  "repo": "open-webui/open-webui",
+  "stars": 159009,
+  "text": "holy f*ck, people are still paying $20/month for ChatGPT when this is free on GitHub\n\nOpen WebUI gives you your own ChatGPT that runs on YOUR machine. pick a model, drop in your docs, ask anything, and nothing leaves your computer\n\n\u2192 works with Ollama (Llama, Qwen) or any OpenAI-compatible API\n\u2192 built-in RAG: chat with your PDFs and docs\n\u2192 web search, Python tools, voice + image gen\n\u2192 runs 100% offline, one docker command\n\u2192 159K+ GitHub stars\n\nown your AI. stop renting it.\n\ngithub.com/open-webui/open-webui",
+  "video": "assets/2026-11-18.mp4",
+  "poster": "assets/2026-11-18-poster.png",
+  "status": "drafted",
+  "post_url": null,
+  "recommended_time": "7:30 AM Boise (MT)"
  }
 ]
