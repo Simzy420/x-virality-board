@@ -108,5 +108,16 @@
   "status": "drafted",
   "post_url": null,
   "recommended_time": "7:30 AM Boise (MT)"
+ },
+ {
+  "date": "2026-11-19",
+  "repo": "ggml-org/llama.cpp",
+  "stars": 135685,
+  "text": "holy f*ck, OpenAI charges $200/month for ChatGPT and this runs AI on your laptop for $0\n\nllama.cpp is the engine behind basically every \"run AI locally\" app. one command, pick a model, and you've got your own AI with no API key and no bill\n\n\u2192 runs Llama, Qwen, Gemma, DeepSeek\n\u2192 Mac, Windows, Linux, even phones\n\u2192 4-bit quantization: big models on 8GB\n\u2192 OpenAI-compatible server for any app\n\u2192 135K+ GitHub stars\n\nwifi off. still works.\n\ngithub.com/ggml-org/llama.cpp",
+  "video": "assets/2026-11-19.mp4",
+  "poster": "assets/2026-11-19-poster.png",
+  "status": "drafted",
+  "post_url": null,
+  "recommended_time": "7:30 AM Boise (MT)"
  }
 ]
