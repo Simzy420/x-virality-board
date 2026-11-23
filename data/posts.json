@@ -119,5 +119,16 @@
   "status": "drafted",
   "post_url": null,
   "recommended_time": "7:30 AM Boise (MT)"
+ },
+ {
+  "date": "2026-11-23",
+  "repo": "harry0703/MoneyPrinterTurbo",
+  "stars": 145185,
+  "text": "holy f*ck, people are paying editors $500/month for faceless Shorts and this open-source repo makes them from ONE topic\n\nMoneyPrinterTurbo: type a topic, it writes the script, records the voiceover, pulls stock footage, adds subtitles + music, and renders a finished vertical video\n\n\u2192 YouTube Shorts, TikTok, Reels (9:16)\n\u2192 GPT, Claude, Grok, DeepSeek or local Ollama\n\u2192 batch-make variants in one run\n\u2192 WebUI, API or CLI\n\u2192 145K+ GitHub stars\n\nno camera. no editing. no face.\n\ngithub.com/harry0703/MoneyPrinterTurbo",
+  "video": "assets/2026-11-23.mp4",
+  "poster": "assets/2026-11-23-poster.png",
+  "status": "drafted",
+  "post_url": null,
+  "recommended_time": "7:30 AM Boise (MT)"
  }
 ]
