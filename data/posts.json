@@ -130,5 +130,16 @@
   "status": "drafted",
   "post_url": null,
   "recommended_time": "7:30 AM Boise (MT)"
+ },
+ {
+  "date": "2026-11-24",
+  "repo": "crewAIInc/crewAI",
+  "stars": 61224,
+  "text": "everyone's posting \"I built a company inside AI\" this week. this is the free open-source repo that actually does it\n\ncrewAI: give each AI agent a role, a goal and a backstory, then let the crew split the work, delegate and ship\n\n\u2192 researcher, analyst, writer, reviewer, manager\n\u2192 crews for autonomy, flows for control\n\u2192 GPT, Claude, Grok or local models\n\u2192 pure Python, no LangChain needed\n\u2192 61K+ GitHub stars\n\nyou manage. they work.\n\ngithub.com/crewAIInc/crewAI",
+  "video": "assets/2026-11-24.mp4",
+  "poster": "assets/2026-11-24-poster.png",
+  "status": "drafted",
+  "post_url": null,
+  "recommended_time": "7:30 AM Boise (MT)"
  }
 ]
