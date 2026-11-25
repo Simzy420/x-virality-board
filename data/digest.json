@@ -1,5 +1,5 @@
 {
- "date": "2026-11-24",
+ "date": "2026-11-25",
  "handle": "Big_Brain_Ape",
  "watchlist": [
   "thegreatest_sv",
@@ -10,11 +10,11 @@
   "0xcodez"
  ],
  "recommended_time": "7:30 AM Boise (MT)",
- "notes": "Meta: AI agent teams / 'company inside AI' (0xCodez 356K, Bober_smart 52K). No repos pushed by watchlist in 48h.",
+ "notes": "Meta: multi-agent teams (T3 Code fleet), Claude trading bots, faceless AI content. Drafted AutoGPT (Otto + expert team).",
  "hits": [
   {
    "account": "0xCodez",
-   "views": 356490,
+   "views": 460856,
    "url": "https://x.com/0xCodez/status/2124586834072330269",
    "text": "T3 Code is the MOST underrated AI dev tool right now\n\nIt runs Fable 5.2, Opus 5.5, GPT-6.2 Astra and Gemini 4 Neon as one team. Grok Bot fee",
    "repos": [],
@@ -22,7 +22,7 @@
   },
   {
    "account": "RohOnChain",
-   "views": 222996,
+   "views": 227921,
    "url": "https://x.com/RohOnChain/status/2124554524027502931",
    "text": "SOMEONE LEAKED THE PROMPT THAT GETS CLAUDE TO SET UP YOUR OWN 24/7 TRADING BOT IN 1 DAY WITHOUT YOU KNOWING HOW TO CODE\n\nNo coding. Just pas",
    "repos": [],
@@ -30,7 +30,7 @@
   },
   {
    "account": "0xGenAi",
-   "views": 136285,
+   "views": 137548,
    "url": "https://x.com/0xGenAi/status/2124612727632994452",
    "text": "I'm f*cking speechless... Grok Bot runs my faceless YouTube Shorts channel now. 11.4M views in 30 days, and YouTube just paid me $3,412\n\nI h",
    "repos": [],
@@ -38,15 +38,39 @@
   },
   {
    "account": "0xCodez",
-   "views": 119611,
+   "views": 122419,
    "url": "https://x.com/0xCodez/status/2124607614529175879",
    "text": "T3 Code founder just shared his personal setup for building agentic teams with Grok Bot + Opus 5.5\n\none Grok Bot runs your whole fleet of ma",
    "repos": [],
    "created_at": "2026-11-22T20:55:03.000Z"
   },
   {
+   "account": "cyrilXBT",
+   "views": 104622,
+   "url": "https://x.com/cyrilXBT/status/2125393047693238754",
+   "text": "https://t.co/A7hGnVLpX8",
+   "repos": [],
+   "created_at": "2026-11-25T00:56:05.000Z"
+  },
+  {
+   "account": "cyrilXBT",
+   "views": 96841,
+   "url": "https://x.com/cyrilXBT/status/2125429266770723250",
+   "text": "THE CEO OF ANTHROPIC WAS ASKED WHAT A KID FINISHING HIGH SCHOOL SHOULD DO RIGHT NOW.\n\nHe didn't sugarcoat it.\n\n\"AI can already do the job of",
+   "repos": [],
+   "created_at": "2026-11-25T03:20:00.000Z"
+  },
+  {
+   "account": "cyrilXBT",
+   "views": 89440,
+   "url": "https://x.com/cyrilXBT/status/2125114743317057876",
+   "text": "this is f**king dangerous\n\nsaw an 18-year-old casually explain how he has Claude Code grind GTA 6 all night while he\u2019s asleep, and it quietl",
+   "repos": [],
+   "created_at": "2026-11-24T06:30:12.000Z"
+  },
+  {
    "account": "Bober_smart",
-   "views": 52212,
+   "views": 66854,
    "url": "https://x.com/Bober_smart/status/2124949701673840947",
    "text": "I still don\u2019t understand why everyone is not doing this yet. Elon Musk reposted my GrokBot guide, with which I earned $7,185 just last week\n",
    "repos": [],
@@ -54,7 +78,7 @@
   },
   {
    "account": "0xCodez",
-   "views": 46492,
+   "views": 50101,
    "url": "https://x.com/0xCodez/status/2124880498220491122",
    "text": "T3 Code creator just shared 1-hour workshop how he builds multi-agent workflows from 0% to 100%:\n\n\" my agents are using Opus 5.5, GrokBot, a",
    "repos": [],
@@ -62,23 +86,47 @@
   },
   {
    "account": "Bober_smart",
-   "views": 34968,
+   "views": 41972,
    "url": "https://x.com/Bober_smart/status/2124858363578085539",
    "text": "I honestly still don't understand why everyone isn't using this yet. Even Elon Musk reposted my post. This is the exact setup that gives you",
    "repos": [],
    "created_at": "2026-11-23T13:31:26.000Z"
   },
   {
+   "account": "0xCodez",
+   "views": 29394,
+   "url": "https://x.com/0xCodez/status/2125244644476751955",
+   "text": "T3 Code Creator just revealed his personal setup for building a fleet of agents in T3 from scratch.  \n\nthis is f*cking gold   \n\nGrok Bot fil",
+   "repos": [],
+   "created_at": "2026-11-24T15:06:23.000Z"
+  },
+  {
    "account": "RohOnChain",
-   "views": 19309,
+   "views": 25952,
    "url": "https://x.com/RohOnChain/status/2124923823560794242",
    "text": "this is most DANGEROUS thing on the internet today\n\nMIT put its entire quant finance course online for FREE: 26 lectures, taught by MIT math",
    "repos": [],
    "created_at": "2026-11-23T17:51:33.000Z"
   },
   {
+   "account": "Bober_smart",
+   "views": 25343,
+   "url": "https://x.com/Bober_smart/status/2125212883776569448",
+   "text": "No f*cking way... Grok Bot runs my TikTok now, 6.7M views and I've never shown my face\n\nElon Musk shared a video made with Grok Bot yesterda",
+   "repos": [],
+   "created_at": "2026-11-24T13:00:10.000Z"
+  },
+  {
+   "account": "thegreatest_sv",
+   "views": 17646,
+   "url": "https://x.com/thegreatest_sv/status/2125203152035033423",
+   "text": "WHOEVER PUT THESE 7 GPU REPOS ON GITHUB IS F*CKING INSANE.\n\nthey're basically a free AI studio for anyone with a graphics card who doesn't w",
+   "repos": [],
+   "created_at": "2026-11-24T12:21:30.000Z"
+  },
+  {
    "account": "cyrilXBT",
-   "views": 16832,
+   "views": 17371,
    "url": "https://x.com/cyrilXBT/status/2124714610557379044",
    "text": "AN 18 YEAR OLD SAYS CLAUDE CODE PLAYED GTA 6 ALL NIGHT WHILE HE SLEPT AND MADE HIM $14,270.\n\nHis setup is one rule:\n\n\"Play all night. If you",
    "repos": [],
@@ -86,7 +134,7 @@
   },
   {
    "account": "cyrilXBT",
-   "views": 13662,
+   "views": 14499,
    "url": "https://x.com/cyrilXBT/status/2124917029765566972",
    "text": "The most legendary stock-market comeback of all time. https://t.co/f3IoU8u4Pn https://t.co/Co59JSEeE8",
    "repos": [],
@@ -94,31 +142,39 @@
   },
   {
    "account": "cyrilXBT",
-   "views": 12638,
+   "views": 12893,
    "url": "https://x.com/cyrilXBT/status/2124752312749216197",
    "text": "META'S CHIEF AI OFFICER JUST SAID THE ATOMIC BOMB WAS A \"HOMEWORK PROBLEM\" COMPARED TO WHAT AI JUST DID.\n\nAlexandr Wang grew up in Los Alamo",
    "repos": [],
    "created_at": "2026-11-23T06:30:02.000Z"
   },
   {
-   "account": "cyrilXBT",
-   "views": 8878,
-   "url": "https://x.com/cyrilXBT/status/2125114743317057876",
-   "text": "this is f**king dangerous\n\nsaw an 18-year-old casually explain how he has Claude Code grind GTA 6 all night while he\u2019s asleep, and it quietl",
+   "account": "Bober_smart",
+   "views": 11139,
+   "url": "https://x.com/Bober_smart/status/2125308271523156125",
+   "text": "I still don't understand why everyone is not doing this yet. Last night, while I was asleep, my GrokBot read the NVIDIA news and opened a 10",
    "repos": [],
-   "created_at": "2026-11-24T06:30:12.000Z"
+   "created_at": "2026-11-24T19:19:12.000Z"
   },
   {
    "account": "cyrilXBT",
-   "views": 8823,
+   "views": 9121,
    "url": "https://x.com/cyrilXBT/status/2124771209753887155",
    "text": "This Anthropic MCP paper is straight-up treasure\n\nAnthropic\u2019s team took an agent\u2019s tool context from 150,000 tokens to about 2,000. Same too",
    "repos": [],
    "created_at": "2026-11-23T07:45:07.000Z"
   },
   {
+   "account": "cyrilXBT",
+   "views": 9111,
+   "url": "https://x.com/cyrilXBT/status/2125129812348211598",
+   "text": "RIP github \ud83d\udc80 \ud83d\udc94 https://t.co/EhYbF0vrh9",
+   "repos": [],
+   "created_at": "2026-11-24T07:30:04.000Z"
+  },
+  {
    "account": "Bober_smart",
-   "views": 7419,
+   "views": 7760,
    "url": "https://x.com/Bober_smart/status/2124586805626556770",
    "text": "I genuinely don't understand why everyone still isn't doing this. Karpathy's second brain pattern runs on Grok Bot now: stop explaining your",
    "repos": [],
@@ -126,15 +182,7 @@
   },
   {
    "account": "cyrilXBT",
-   "views": 6661,
-   "url": "https://x.com/cyrilXBT/status/2124707258684575850",
-   "text": "Two Anthropic engineers just took 24 minutes to reveal the hidden Claude Code features almost nobody talks about and it won\u2019t cost you a thi",
-   "repos": [],
-   "created_at": "2026-11-23T03:31:00.000Z"
-  },
-  {
-   "account": "cyrilXBT",
-   "views": 6586,
+   "views": 7386,
    "url": "https://x.com/cyrilXBT/status/2125022266580942934",
    "text": "What can crypto users do right now to stay safe from this hack @grok ? https://t.co/d28OV6urvF",
    "repos": [],
@@ -142,23 +190,55 @@
   },
   {
    "account": "cyrilXBT",
-   "views": 6138,
+   "views": 6863,
+   "url": "https://x.com/cyrilXBT/status/2124707258684575850",
+   "text": "Two Anthropic engineers just took 24 minutes to reveal the hidden Claude Code features almost nobody talks about and it won\u2019t cost you a thi",
+   "repos": [],
+   "created_at": "2026-11-23T03:31:00.000Z"
+  },
+  {
+   "account": "cyrilXBT",
+   "views": 6455,
+   "url": "https://x.com/cyrilXBT/status/2125193974310945019",
+   "text": "Alex Hormozi on how to make offers so good people feel stupid saying no https://t.co/FiqmYWucX0",
+   "repos": [],
+   "created_at": "2026-11-24T11:45:02.000Z"
+  },
+  {
+   "account": "cyrilXBT",
+   "views": 6399,
    "url": "https://x.com/cyrilXBT/status/2124790127033827777",
    "text": "Performance tuning specialists just got pink-slipped overnight\u2026\u2026GitHub rolled out something so absurdly powerful it feels made up.\n\nKeep 95%",
    "repos": [],
    "created_at": "2026-11-23T09:00:17.000Z"
   },
   {
+   "account": "RohOnChain",
+   "views": 6285,
+   "url": "https://x.com/RohOnChain/status/2125311761188598181",
+   "text": "I am begging you to paste this images into Claude Fable 5.2 right now, it will definitely change your life...\n\nIt researches the whole marke",
+   "repos": [],
+   "created_at": "2026-11-24T19:33:04.000Z"
+  },
+  {
    "account": "cyrilXBT",
-   "views": 6008,
+   "views": 6278,
    "url": "https://x.com/cyrilXBT/status/2124843657987838327",
    "text": "Anthropic's CEO was asked what a kid finishing high school should do right now\n\nhe didn't sugarcoat it\n\n\"AI can already do the work of a jun",
    "repos": [],
    "created_at": "2026-11-23T12:33:00.000Z"
   },
   {
+   "account": "cyrilXBT",
+   "views": 6082,
+   "url": "https://x.com/cyrilXBT/status/2125526190601761058",
+   "text": "this is actually insane and kind of terrifying\n\njust watched an 18-year-old break down how he pulls in $10k/month with ai while he\u2019s asleep ",
+   "repos": [],
+   "created_at": "2026-11-25T09:45:08.000Z"
+  },
+  {
    "account": "Bober_smart",
-   "views": 5566,
+   "views": 5749,
    "url": "https://x.com/Bober_smart/status/2124495076206276829",
    "text": "HOLY SH*T, I BUILT A F**KING COMPANY INSIDE GROK BOT\n\nI divided the workflow into dedicated roles: research, writing, outreach, ops, finance",
    "repos": [],
@@ -166,19 +246,51 @@
   },
   {
    "account": "cyrilXBT",
-   "views": 5354,
-   "url": "https://x.com/cyrilXBT/status/2125129812348211598",
-   "text": "RIP github \ud83d\udc80 \ud83d\udc94 https://t.co/EhYbF0vrh9",
+   "views": 5719,
+   "url": "https://x.com/cyrilXBT/status/2125088276717744197",
+   "text": "How to run uncensored AI on your laptop in 10 minutes https://t.co/idea7mtndG https://t.co/bMEaQsp64r",
    "repos": [],
-   "created_at": "2026-11-24T07:30:04.000Z"
+   "created_at": "2026-11-24T04:45:02.000Z"
   },
   {
    "account": "cyrilXBT",
-   "views": 5138,
+   "views": 5677,
+   "url": "https://x.com/cyrilXBT/status/2125069402542665783",
+   "text": "VERCEL BUILT THE APP STORE FOR AI AGENTS AND MOST DEVS STILL HAVEN'T OPENED IT.\n\nIt's called https://t.co/ksJ4l1lJEL\n\nOne command installs a",
+   "repos": [],
+   "created_at": "2026-11-24T03:30:02.000Z"
+  },
+  {
+   "account": "cyrilXBT",
+   "views": 5406,
+   "url": "https://x.com/cyrilXBT/status/2125480861491773792",
+   "text": "Goodbye, Antigravity!!! \ud83d\ude31\ud83d\ude31\n\nGoogle just dropped gemini-api-cli into open source: pure Go, zero deps, one tiny file.\n\nBottom line: it makes",
+   "repos": [],
+   "created_at": "2026-11-25T06:45:01.000Z"
+  },
+  {
+   "account": "cyrilXBT",
+   "views": 5360,
    "url": "https://x.com/cyrilXBT/status/2124805207393767474",
    "text": "\ud83d\udea8   You no longer need to know Blender to create 3D models\n\nBlender\u2019s core team distilled the whole 3D pipeline modeling, materials, lighti",
    "repos": [],
    "created_at": "2026-11-23T10:00:13.000Z"
+  },
+  {
+   "account": "cyrilXBT",
+   "views": 5136,
+   "url": "https://x.com/cyrilXBT/status/2125450667909316725",
+   "text": "Eric Schmidt (former Google CEO) on how to make money with AI https://t.co/3QCzirNS6h https://t.co/D3i36u9DZj",
+   "repos": [],
+   "created_at": "2026-11-25T04:45:02.000Z"
+  },
+  {
+   "account": "cyrilXBT",
+   "views": 5068,
+   "url": "https://x.com/cyrilXBT/status/2124865829095485575",
+   "text": "\ud83d\udea8 THE REAL STORY ISN'T THAT AI GOT A NEW NAME\n\nTHE REAL STORY IS THIS:\n\nThe new name comes with NEW POWERS.\n\nExecutive Order 14434 turned \"",
+   "repos": [],
+   "created_at": "2026-11-23T14:01:06.000Z"
   }
  ]
 }
