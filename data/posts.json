@@ -152,5 +152,16 @@
   "status": "drafted",
   "post_url": null,
   "recommended_time": "7:30 AM Boise (MT)"
+ },
+ {
+  "date": "2026-11-26",
+  "repo": "langchain-ai/langchain",
+  "stars": 150020,
+  "text": "150K GitHub stars and most people still think LangChain is \"just a wrapper\"\n\nit's the agent stack half the AI tools you use are quietly built on, and it's free\n\n\u2192 Deep Agents: plan, spin up subagents, use a file system\n\u2192 LangGraph: stateful, controllable agent workflows\n\u2192 swap any LLM with one line, no rewrite\n\u2192 plug in tools, APIs, vector stores, your own data\n\u2192 150K+ GitHub stars, MIT licensed\n\npick a model. give it tools. ship the agent.\n\ngithub.com/langchain-ai/langchain",
+  "video": "assets/2026-11-26.mp4",
+  "poster": "assets/2026-11-26-poster.png",
+  "status": "drafted",
+  "post_url": null,
+  "recommended_time": "7:30 AM Boise (MT)"
  }
 ]
