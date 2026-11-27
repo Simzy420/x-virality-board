@@ -163,5 +163,16 @@
   "status": "drafted",
   "post_url": null,
   "recommended_time": "7:30 AM Boise (MT)"
+ },
+ {
+  "date": "2026-11-27",
+  "repo": "openai/codex",
+  "stars": 136646,
+  "text": "holy f*ck, OpenAI just handed you a coding agent for free\n\nit lives in your terminal and does the work while you watch\n\n\u2192 describe the task in plain English\n\u2192 it reads your repo, plans, and edits the files\n\u2192 runs your tests in a sandbox, asks before risky commands\n\u2192 works in VS Code / Cursor too\n\u2192 136K+ GitHub stars, Apache-2.0, open source\n\none command: npm i -g @openai/codex\n\ngithub.com/openai/codex",
+  "video": "assets/2026-11-27.mp4",
+  "poster": "assets/2026-11-27-poster.png",
+  "status": "drafted",
+  "post_url": null,
+  "recommended_time": "7:30 AM Boise (MT)"
  }
 ]
