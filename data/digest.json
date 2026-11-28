@@ -1,5 +1,5 @@
 {
- "date": "2026-11-27",
+ "date": "2026-11-28",
  "handle": "Big_Brain_Ape",
  "watchlist": [
   "thegreatest_sv",
@@ -10,247 +10,223 @@
   "0xcodez"
  ],
  "recommended_time": "7:30 AM Boise (MT)",
- "notes": "Codex CLI: OpenAI's open-source terminal coding agent. Watchlist meta: Claude Code/T3 agent setups, 'holy f*ck' hooks; no repos linked in last 72h.",
+ "notes": "Langflow drag-and-drop agent builder; rides no-code AI agent + agent swarm hooks (RohOnChain 234K Gemini 4 Neon, 0xGenAi 96K, thegreatest_sv 91K). 20s 1080x1350 motion-graphics video.",
  "hits": [
   {
-   "account": "cyrilXBT",
-   "views": 236116,
-   "url": "https://x.com/cyrilXBT/status/2125790648074719311",
-   "text": "THE CEO OF NVIDIA WAS ASKED WHICH COLLEGE DEGREE IS AI PROOF. HIS ANSWER: \"IT WON'T MATTER.\"\n\nHe didn't sugarcoat it.\n\nParents everywhere ar",
-   "repos": [],
-   "created_at": "2026-11-26T03:16:00.000Z"
-  },
-  {
    "account": "RohOnChain",
-   "views": 154517,
+   "views": 233591,
    "url": "https://x.com/RohOnChain/status/2125962364436791775",
    "text": "Gemini 4 Neon... just destroyed trading as a profession\n\nit\u2019s the MOST powerful AI model right now &amp; 99% of people use it at 20% of its ",
    "repos": [],
-   "created_at": "2026-11-26T14:38:20.000Z"
+   "created_at": "2026-11-26T14:38:20.000Z",
+   "star": true
   },
   {
-   "account": "0xCodez",
-   "views": 104389,
-   "url": "https://x.com/0xCodez/status/2125629866418512210",
-   "text": "i just reverse-engineered Theo's T3 Code setup from 100MB+ of telemetry he published from his own T3 Code\n\nthis is f*cking gold\n\nOpus 5.5 co",
+   "account": "0xGenAi",
+   "views": 96052,
+   "url": "https://x.com/0xGenAi/status/2126345315481432385",
+   "text": "there is no catch and that scares me\n\nElon Musk posted an idea that hit 27 million views: \n\n\"stop building startups. buy boring internet rea",
    "repos": [],
-   "created_at": "2026-11-25T16:37:07.000Z"
+   "created_at": "2026-11-27T16:00:03.000Z",
+   "star": true
   },
   {
    "account": "thegreatest_sv",
-   "views": 67105,
+   "views": 91063,
    "url": "https://x.com/thegreatest_sv/status/2125976371600257533",
    "text": "EVERY STUDENT MUST KNOW THIS BEFORE THEIR FIRST JOB.\n\nI built a living spine with Claude Opus 5.5: CSF pulsing with every heartbeat, blood d",
    "repos": [],
-   "created_at": "2026-11-26T15:34:00.000Z"
+   "created_at": "2026-11-26T15:34:00.000Z",
+   "star": true
+  },
+  {
+   "account": "0xCodez",
+   "views": 34643,
+   "url": "https://x.com/0xCodez/status/2126359035456729167",
+   "text": "please, dont f*cking touch your T3 Code until you send it this post\n\nthis is f*cking dangerous\n\nthese 20 GitHub repos will turn your T3 Code",
+   "repos": [],
+   "created_at": "2026-11-27T16:54:34.000Z",
+   "star": true
   },
   {
    "account": "thegreatest_sv",
-   "views": 51823,
-   "url": "https://x.com/thegreatest_sv/status/2125614738943934706",
-   "text": "holy f*ck, 3D artists are not ready for this\n\nthe whole 3D pipeline is getting automated, piece by piece.\n\nmodeling. retopo. rigging. textur",
+   "views": 34466,
+   "url": "https://x.com/thegreatest_sv/status/2126385819086729300",
+   "text": "EVERYONE SHOULD KNOW THESE TOOLS BEFORE GETTING JOB IN 2027\n\nI asked Claude Opus 5.5 to animate a real lumbar spine with real kinematics: ev",
    "repos": [],
-   "created_at": "2026-11-25T15:37:00.000Z"
+   "created_at": "2026-11-27T18:41:00.000Z",
+   "star": true
   },
   {
    "account": "Bober_smart",
-   "views": 42645,
-   "url": "https://x.com/Bober_smart/status/2125676333380301067",
-   "text": "I don't understand why everyone isn't doing this yet. Elon Musk\u2019s team just published their complete Grok Bot playbook, which includes 19 fr",
-   "repos": [],
-   "created_at": "2026-11-25T19:41:45.000Z"
-  },
-  {
-   "account": "0xCodez",
-   "views": 34219,
-   "url": "https://x.com/0xCodez/status/2125244644476751955",
-   "text": "T3 Code Creator just revealed his personal setup for building a fleet of agents in T3 from scratch.  \n\nthis is f*cking gold   \n\nGrok Bot fil",
-   "repos": [],
-   "created_at": "2026-11-24T15:06:23.000Z"
-  },
-  {
-   "account": "cyrilXBT",
-   "views": 28430,
-   "url": "https://x.com/cyrilXBT/status/2125810780339851569",
-   "text": "\ud83d\udea8 BREAKING: THE CEO OF GOOGLE DEEPMIND WAS ASKED WHAT COLLEGE STUDENTS SHOULD DO INSTEAD OF AN INTERNSHIP.\n\nHe didn't sugarcoat it.\n\n\"This ",
-   "repos": [],
-   "created_at": "2026-11-26T04:36:00.000Z"
-  },
-  {
-   "account": "Bober_smart",
-   "views": 27539,
-   "url": "https://x.com/Bober_smart/status/2125212883776569448",
-   "text": "No f*cking way... Grok Bot runs my TikTok now, 6.7M views and I've never shown my face\n\nElon Musk shared a video made with Grok Bot yesterda",
-   "repos": [],
-   "created_at": "2026-11-24T13:00:10.000Z"
-  },
-  {
-   "account": "RohOnChain",
-   "views": 23556,
-   "url": "https://x.com/RohOnChain/status/2125611887836709033",
-   "text": "HOLY F*CK...i just built the order flow board people charge $2000 for &amp; released it for 100% FREE\n\nit means that now you see the ENTIRE ",
-   "repos": [],
-   "created_at": "2026-11-25T15:25:40.000Z"
-  },
-  {
-   "account": "cyrilXBT",
-   "views": 18058,
-   "url": "https://x.com/cyrilXBT/status/2125526190601761058",
-   "text": "this is actually insane and kind of terrifying\n\njust watched an 18-year-old break down how he pulls in $10k/month with ai while he\u2019s asleep ",
-   "repos": [],
-   "created_at": "2026-11-25T09:45:08.000Z"
-  },
-  {
-   "account": "Bober_smart",
-   "views": 17632,
-   "url": "https://x.com/Bober_smart/status/2125308271523156125",
-   "text": "I still don't understand why everyone is not doing this yet. Last night, while I was asleep, my GrokBot read the NVIDIA news and opened a 10",
-   "repos": [],
-   "created_at": "2026-11-24T19:19:12.000Z"
-  },
-  {
-   "account": "cyrilXBT",
-   "views": 14239,
-   "url": "https://x.com/cyrilXBT/status/2125839516879782205",
-   "text": "this is f**king dangerous\n\nsaw an 18-year-old casually explain how he has Claude Code grind GTA 6 all night while he\u2019s asleep, and it quietl",
-   "repos": [],
-   "created_at": "2026-11-26T06:30:11.000Z"
-  },
-  {
-   "account": "Bober_smart",
-   "views": 12317,
+   "views": 27648,
    "url": "https://x.com/Bober_smart/status/2126036308707455030",
    "text": "I genuinely don't understand why everyone still isn't using this. This exact method allowed me to make $6,380 in my very first week\n\nEric Sc",
    "repos": [],
-   "created_at": "2026-11-26T19:32:10.000Z"
+   "created_at": "2026-11-26T19:32:10.000Z",
+   "star": true
   },
   {
    "account": "cyrilXBT",
-   "views": 11175,
-   "url": "https://x.com/cyrilXBT/status/2125854600234438946",
-   "text": "this is pure f*cking gold\n\nAndrej Karpathy doesn't use Notion.\n\nNo Obsidian plugins.\n\nNo notes app at all.\n\nHis second brain is a folder of ",
+   "views": 25079,
+   "url": "https://x.com/cyrilXBT/status/2126564274395127832",
+   "text": "\ud83d\udea8 SOMEONE LEAKED THE PROMPT THAT BUILDS A FULL TRADING AGENT INSIDE CLAUDE CODE\n\nYou paste it. Claude builds the bot while you grab a coffee",
    "repos": [],
-   "created_at": "2026-11-26T07:30:07.000Z"
+   "created_at": "2026-11-28T06:30:07.000Z",
+   "star": true
+  },
+  {
+   "account": "cyrilXBT",
+   "views": 20384,
+   "url": "https://x.com/cyrilXBT/status/2126239670304657768",
+   "text": "MOST PEOPLE BUYING NEW HARDWARE FOR LOCAL AI ARE WASTING THEIR MONEY.\n\nA new free tool called Magnitude runs big open models on the computer",
+   "repos": [],
+   "created_at": "2026-11-27T09:00:15.000Z",
+   "star": true
+  },
+  {
+   "account": "RohOnChain",
+   "views": 12627,
+   "url": "https://x.com/RohOnChain/status/2126343823685255480",
+   "text": "\"Gemini 4 Neon + Agent Swarm\" can make upto $100,000 a month\n\nthis FREE repo turns Gemini 4 Neon into a team of AI trading agents that resea",
+   "repos": [],
+   "created_at": "2026-11-27T15:54:07.000Z",
+   "star": true
   },
   {
    "account": "0xCodez",
-   "views": 8711,
+   "views": 10828,
    "url": "https://x.com/0xCodez/status/2126003062867161265",
    "text": "i turned 100MB+ of telemetry that Theo published from his own T3 Code into fully functional T3 agents office. \n\nthis is f*cking gold \n\nOpus ",
    "repos": [],
-   "created_at": "2026-11-26T17:20:04.000Z"
-  },
-  {
-   "account": "RohOnChain",
-   "views": 8176,
-   "url": "https://x.com/RohOnChain/status/2125311761188598181",
-   "text": "I am begging you to paste this images into Claude Fable 5.2 right now, it will definitely change your life...\n\nIt researches the whole marke",
-   "repos": [],
-   "created_at": "2026-11-24T19:33:04.000Z"
+   "created_at": "2026-11-26T17:20:04.000Z",
+   "star": true
   },
   {
    "account": "cyrilXBT",
-   "views": 7955,
-   "url": "https://x.com/cyrilXBT/status/2125884806160658594",
-   "text": "HOLY F*CK... uncensored AI on your own pc is finally easy\n\nhttps://t.co/xUKoDutMMq\n\ntotally free, and it works offline too!!!\n\nbookmark this",
+   "views": 8798,
+   "url": "https://x.com/cyrilXBT/status/2126290016611528955",
+   "text": "i genuinely can't believe this is free.\n\nthis guy set up a YouTube channel that earns him $5,000 a month working just 1 to 2 hours a day.\n\nw",
    "repos": [],
-   "created_at": "2026-11-26T09:30:09.000Z"
+   "created_at": "2026-11-27T12:20:19.000Z",
+   "star": false
   },
   {
    "account": "cyrilXBT",
-   "views": 7482,
-   "url": "https://x.com/cyrilXBT/status/2125929562789794106",
-   "text": "Claude FULL COURSE 1 HOUR (Build &amp; Automate Anything)  \n\nBookmark this \ud83d\udd16 https://t.co/Pg9YFHSzaO",
-   "repos": [],
-   "created_at": "2026-11-26T12:28:00.000Z"
-  },
-  {
-   "account": "Bober_smart",
-   "views": 6857,
-   "url": "https://x.com/Bober_smart/status/2125943747863064902",
-   "text": "Holy f*ck... Elon Musk's team just made fake Black Friday deals useless\n\nJust yesterday, Elon shared that \"Grok Bot can hunt down Black Frid",
-   "repos": [],
-   "created_at": "2026-11-26T13:24:22.000Z"
-  },
-  {
-   "account": "cyrilXBT",
-   "views": 6209,
+   "views": 8753,
    "url": "https://x.com/cyrilXBT/status/2126157062153310391",
    "text": "THE CEO OF ANTHROPIC SAID AI CAN DO A JUNIOR LAWYER'S JOB. SO I FOUND WHAT THE JUNIORS SHOULD LEARN INSTEAD.\n\nHe didn't sugarcoat it.\n\nHe de",
    "repos": [],
-   "created_at": "2026-11-27T03:32:00.000Z"
+   "created_at": "2026-11-27T03:32:00.000Z",
+   "star": false
   },
   {
    "account": "cyrilXBT",
-   "views": 6160,
-   "url": "https://x.com/cyrilXBT/status/2125511065324954060",
-   "text": "How to build a personal brand and make $1,000,000 from it https://t.co/tgARPO8q0B",
+   "views": 7915,
+   "url": "https://x.com/cyrilXBT/status/2125929562789794106",
+   "text": "Claude FULL COURSE 1 HOUR (Build &amp; Automate Anything)  \n\nBookmark this \ud83d\udd16 https://t.co/Pg9YFHSzaO",
    "repos": [],
-   "created_at": "2026-11-25T08:45:02.000Z"
+   "created_at": "2026-11-26T12:28:00.000Z",
+   "star": false
   },
   {
    "account": "cyrilXBT",
-   "views": 6054,
-   "url": "https://x.com/cyrilXBT/status/2125903648739955069",
-   "text": "i can't comprehend why people run claude code on default settings\n\none settings change and every model gets its own job:\n\n\u2192 opus plans every",
-   "repos": [],
-   "created_at": "2026-11-26T10:45:01.000Z"
-  },
-  {
-   "account": "cyrilXBT",
-   "views": 5920,
-   "url": "https://x.com/cyrilXBT/status/2125548818523705735",
-   "text": "Claude Fable 5.2 agent teams: what actually works and what breaks https://t.co/nI4fC3gYGK https://t.co/D3i36u9DZj",
-   "repos": [],
-   "created_at": "2026-11-25T11:15:03.000Z"
-  },
-  {
-   "account": "cyrilXBT",
-   "views": 5806,
-   "url": "https://x.com/cyrilXBT/status/2125869679512285316",
-   "text": "YOUR APP DOESN'T LOOK BAD BECAUSE YOU CAN'T DESIGN. IT LOOKS BAD BECAUSE IT LOOKS LIKE EVERY OTHER AI APP.\n\nSame purple gradient.\n\nSame roun",
-   "repos": [],
-   "created_at": "2026-11-26T08:30:03.000Z"
-  },
-  {
-   "account": "cyrilXBT",
-   "views": 5777,
+   "views": 7874,
    "url": "https://x.com/cyrilXBT/status/2126201885401231559",
    "text": "POV: After you paid $5000 for a GPT 6 astra course just to find it for FREE right here https://t.co/6GTFhrLRIV https://t.co/D3i36u9DZj",
    "repos": [],
-   "created_at": "2026-11-27T06:30:07.000Z"
-  },
-  {
-   "account": "RohOnChain",
-   "views": 5750,
-   "url": "https://x.com/RohOnChain/status/2126026478634910201",
-   "text": "how to build a 24/7 trading bot with AI from scratch (without writing a single line of code): https://t.co/s17HDQQjzC https://t.co/IQm1L9MLM",
-   "repos": [],
-   "created_at": "2026-11-26T18:53:06.000Z"
-  },
-  {
-   "account": "Bober_smart",
-   "views": 5730,
-   "url": "https://x.com/Bober_smart/status/2125580304786035030",
-   "text": "HOLY F*CK... SOLO FOUNDER. ONE GROK BOT. TWENTY AI WORKERS\n\nYou set the objective, Grok assembles the crew and assigns tasks. Devs, analysts",
-   "repos": [],
-   "created_at": "2026-11-25T13:20:10.000Z"
+   "created_at": "2026-11-27T06:30:07.000Z",
+   "star": false
   },
   {
    "account": "cyrilXBT",
-   "views": 5215,
-   "url": "https://x.com/cyrilXBT/status/2126175443460247677",
-   "text": "Google on how to get the most out of Gemini 4 Neon https://t.co/hrP7mPG7AK",
-   "repos": [],
-   "created_at": "2026-11-27T04:45:02.000Z"
-  },
-  {
-   "account": "cyrilXBT",
-   "views": 5036,
+   "views": 7694,
    "url": "https://x.com/cyrilXBT/status/2126220744988520608",
    "text": "EVERYONE IS SCARED OF LOSING THEIR JOB TO AI. THIS GUY KEPT HIS. THAT'S THE SCARY PART.\n\nNobody talks about this version.\n\nYou don't get fir",
    "repos": [],
-   "created_at": "2026-11-27T07:45:03.000Z"
+   "created_at": "2026-11-27T07:45:03.000Z",
+   "star": false
+  },
+  {
+   "account": "Bober_smart",
+   "views": 7490,
+   "url": "https://x.com/Bober_smart/status/2125943747863064902",
+   "text": "Holy f*ck... Elon Musk's team just made fake Black Friday deals useless\n\nJust yesterday, Elon shared that \"Grok Bot can hunt down Black Frid",
+   "repos": [],
+   "created_at": "2026-11-26T13:24:22.000Z",
+   "star": false
+  },
+  {
+   "account": "cyrilXBT",
+   "views": 7305,
+   "url": "https://x.com/cyrilXBT/status/2126175443460247677",
+   "text": "Google on how to get the most out of Gemini 4 Neon https://t.co/hrP7mPG7AK",
+   "repos": [],
+   "created_at": "2026-11-27T04:45:02.000Z",
+   "star": false
+  },
+  {
+   "account": "cyrilXBT",
+   "views": 7245,
+   "url": "https://x.com/cyrilXBT/status/2126350172355436597",
+   "text": "I recommend everyone go to YouTube to learn about AI agents. It really can help you get ahead of the information gap! https://t.co/oHdIoCb7W",
+   "repos": [],
+   "created_at": "2026-11-27T16:19:21.000Z",
+   "star": false
+  },
+  {
+   "account": "RohOnChain",
+   "views": 6785,
+   "url": "https://x.com/RohOnChain/status/2126026478634910201",
+   "text": "how to build a 24/7 trading bot with AI from scratch (without writing a single line of code): https://t.co/s17HDQQjzC https://t.co/IQm1L9MLM",
+   "repos": [],
+   "created_at": "2026-11-26T18:53:06.000Z",
+   "star": false
+  },
+  {
+   "account": "cyrilXBT",
+   "views": 6326,
+   "url": "https://x.com/cyrilXBT/status/2126304961713582334",
+   "text": "CLAUDE CODE + OBSIDIAN IS THE MOST UNDERRATED AI SETUP OF 2026.\n\nThis guy says it helps him run a $100,000 a month business.\n\nIn 10 minutes ",
+   "repos": [],
+   "created_at": "2026-11-27T13:19:42.000Z",
+   "star": false
+  },
+  {
+   "account": "cyrilXBT",
+   "views": 5528,
+   "url": "https://x.com/cyrilXBT/status/2126536311104262518",
+   "text": "THE CEO OF GOOGLE DEEPMIND WAS ASKED WHAT COLLEGE STUDENTS SHOULD DO INSTEAD OF AN INTERNSHIP.\n\nHe didn't sugarcoat it.\n\n\"This year we'll ma",
+   "repos": [],
+   "created_at": "2026-11-28T04:39:00.000Z",
+   "star": false
+  },
+  {
+   "account": "cyrilXBT",
+   "views": 5399,
+   "url": "https://x.com/cyrilXBT/status/2126262268606419401",
+   "text": "AI APPS ARE ABOUT TO EAT EVERY OTHER APP ON YOUR PHONE.\n\nAnthropic is reportedly testing Google Drive inside Claude.\n\nBrowse your Docs, Shee",
+   "repos": [],
+   "created_at": "2026-11-27T10:30:03.000Z",
+   "star": false
+  },
+  {
+   "account": "Bober_smart",
+   "views": 5351,
+   "url": "https://x.com/Bober_smart/status/2126322429542732235",
+   "text": "I make a new animation every day now using these 18 GitHub repos\n\nLast month, I sold $9,200 worth of animated videos. Yesterday alone, I mad",
+   "repos": [],
+   "created_at": "2026-11-27T14:29:07.000Z",
+   "star": false
+  },
+  {
+   "account": "cyrilXBT",
+   "views": 5291,
+   "url": "https://x.com/cyrilXBT/status/2126517436727935025",
+   "text": "MICROSOFT'S AI CHIEF SAID MOST DESK JOBS COULD BE AUTOMATED WITHIN 18 MONTHS. THAT CLOCK STARTED IN FEBRUARY.\n\nHe didn't sugarcoat it.\n\n\"I t",
+   "repos": [],
+   "created_at": "2026-11-28T03:24:00.000Z",
+   "star": false
   }
  ]
 }
